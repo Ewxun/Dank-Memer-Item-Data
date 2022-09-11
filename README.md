@@ -10,6 +10,7 @@ You will find the following information about the items:
 - Item Type
 - Item Rarity
 - Item Price
+- Item Image/Emoji URL
 - Item Flags
   - Reusability
   - Obtainabl-ity
