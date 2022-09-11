@@ -16,3 +16,20 @@ You will find the following information about the items:
   - Obtainabl-ity
   - Tradability
   - Purchasab-ility
+
+## Supported Formats
+The original data is saved using the JSON format. Other formats are converted with 3rd-party tools/libraries.
+- JSON
+- YAML
+- XML
+- CSV
+- SQL
+  - SQLite
+  - MySQL
+  - PostgreSQL
+
+## Contributing
+Feel free to contribute to this repository by updating data or adding in new formats.
+
+## Contact/Support 
+Contact me through Discord @ `Ewxun#6311`
