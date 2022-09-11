@@ -1,0 +1,3267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <items>
+    <id>126</id>
+    <itemKey>aplus</itemKey>
+    <name>A plus</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>An A+ you can sell for some profit, woo for cheating! Found from the teacher job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/991732639348293663.gif</imageURL>
+  </items>
+  <items>
+    <id>86</id>
+    <itemKey>adventureticket</itemKey>
+    <name>Adventure Ticket</name>
+    <type>Tool</type>
+    <value>200000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A ticket to start an adventure!</description>
+    <longDescription>This can be found in limited stock in the shop, from voting or being a patron! These are used to start an adventure in the adventure command.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/934112100970807336.png</imageURL>
+  </items>
+  <items>
+    <id>177</id>
+    <itemKey>adventurevoucher</itemKey>
+    <name>Adventure Voucher</name>
+    <type>Collectable</type>
+    <value>200000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Exchange this with the bot to get a certain lootbox themed after an adventure!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1007023088493400084.png</imageURL>
+  </items>
+  <items>
+    <id>46</id>
+    <itemKey>aetheryxflower</itemKey>
+    <name>Aetheryx&#x27; Flower</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>A no longer vibrant red flower, a wisp of its former self.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/936688654531825764.png</imageURL>
+  </items>
+  <items>
+    <id>173</id>
+    <itemKey>aipheysgemstone</itemKey>
+    <name>Aiphey&#x27;s Gemstone</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>An amazing gemstone</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/960656161479209040.png</imageURL>
+  </items>
+  <items>
+    <id>152</id>
+    <itemKey>alcohol</itemKey>
+    <name>Alcohol</name>
+    <type>Power-up</type>
+    <value>20000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Down some alcohol and maybe you&#x27;ll get lucky! Maybe.</description>
+    <longDescription>Drink a bottle of alcohol, and have the potential to gain a slight luck boost that will grant you better luck in stealing from others. However, you become more susceptible to being stolen from!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/984501149501653082.png</imageURL>
+  </items>
+  <items>
+    <id>187</id>
+    <itemKey>alexasmegaphone</itemKey>
+    <name>Alexa&#x27;s Megaphone</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>The voice of the people</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1000515380286083104.png</imageURL>
+  </items>
+  <items>
+    <id>85</id>
+    <itemKey>aliensample</itemKey>
+    <name>Alien Sample</name>
+    <type>Collectable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A collectible sample of alien tissue</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/933475704434196540.gif</imageURL>
+  </items>
+  <items>
+    <id>172</id>
+    <itemKey>amathinesbutterfly</itemKey>
+    <name>Amathine&#x27;s Butterfly</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A beautiful butterfly</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/968274752135368704.gif</imageURL>
+  </items>
+  <items>
+    <id>132</id>
+    <itemKey>ammo</itemKey>
+    <name>Ammo</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>While this item is active (1 hour), you will always find an animal while hunting. Found from the professional hunter job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/976514724336402462.png</imageURL>
+  </items>
+  <items>
+    <id>11</id>
+    <itemKey>ant</itemKey>
+    <name>Ant</name>
+    <type>Sellable</type>
+    <value>1000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This ant is not alive; I think someone shot it? Who shoots an ant wtf.</description>
+    <longDescription>This ant is not alive; I think someone shot it? Who shoots an ant wtf. This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/864220608865763378.png</imageURL>
+  </items>
+  <items>
+    <id>109</id>
+    <itemKey>antirobpack</itemKey>
+    <name>Anti-Rob Pack</name>
+    <type>Pack</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pack containing basic items to avoid getting robbed.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/873172443462791200.png</imageURL>
+  </items>
+  <items>
+    <id>169</id>
+    <itemKey>apple</itemKey>
+    <name>Apple</name>
+    <type>Power-up</type>
+    <value>8500</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>An apple a day keeps the what away? Avoid item loss on death!</description>
+    <longDescription>Eating this once a day makes it so you do not lose any inventory or active items if you die. The lifesaver takes priority over this effect. (Lasts 24 hours)</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/887000049266069575.png</imageURL>
+  </items>
+  <items>
+    <id>31</id>
+    <itemKey>armpithair</itemKey>
+    <name>Armpit Hair</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>It tastes funny!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/926267869258457139.png</imageURL>
+  </items>
+  <items>
+    <id>142</id>
+    <itemKey>baby</itemKey>
+    <name>Baby</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>We do NOT sell babies guys. We simply collect them. IN THE GAME, THIS IS A JOKE WTF. Found from the babysitter job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/937502609550503936.png</imageURL>
+  </items>
+  <items>
+    <id>42</id>
+    <itemKey>badoszcard</itemKey>
+    <name>Badosz&#x27;s Card</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>A real king in the sleeve.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/869294028385038354.gif</imageURL>
+  </items>
+  <items>
+    <id>135</id>
+    <itemKey>banhammer</itemKey>
+    <name>Ban Hammer</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A hammer dropped by a mod after banning someone. Found from the discord mod job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/979435284603215932.png</imageURL>
+  </items>
+  <items>
+    <id>59</id>
+    <itemKey>banknote</itemKey>
+    <name>Bank Note</name>
+    <type>Power-up</type>
+    <value>350000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Use this to expand your bank space!</description>
+    <longDescription>You can either use this note to expand your bank space by a large amount or sell it for some coins. Your choice, really. Expanded bank space does not reset on prestige (regular bank space earned via running commands does)</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316888985621.png</imageURL>
+  </items>
+  <items>
+    <id>185</id>
+    <itemKey>sludgesbarrel</itemKey>
+    <name>Barrel of Sludge</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Toxic and stinky</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/998740316565807124.gif</imageURL>
+  </items>
+  <items>
+    <id>130</id>
+    <itemKey>beaker</itemKey>
+    <name>Beaker of sus fluid</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Dear god do NOT drink this. Found from the scientist job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/980475704414187590.png</imageURL>
+  </items>
+  <items>
+    <id>7</id>
+    <itemKey>bean</itemKey>
+    <name>Bean</name>
+    <type>Sellable</type>
+    <value>2000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>It&#x27;s just a bean. A simple B E A N.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/905951197821800500.png</imageURL>
+  </items>
+  <items>
+    <id>49</id>
+    <itemKey>beanmp3</itemKey>
+    <name>Bean Mp3 Player</name>
+    <type>Collectable</type>
+    <value>50000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>The long-lost voice of a bean. This item can only be used once before it explodes from too much B E A N.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/922652278308093952.png</imageURL>
+  </items>
+  <items>
+    <id>73</id>
+    <itemKey>berriesandcream</itemKey>
+    <name>Berries and Cream</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>I&#x27;m a little lad who loves...</description>
+    <longDescription>A limited time item from a random event, use this item to send it to someone who loves berries and cream!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/890365752534761472.png</imageURL>
+  </items>
+  <items>
+    <id>128</id>
+    <itemKey>binary</itemKey>
+    <name>Binary</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A rogue piece of binary code spit out of a computer. Found from the developer job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/910648334212026498.gif</imageURL>
+  </items>
+  <items>
+    <id>84</id>
+    <itemKey>blackhole</itemKey>
+    <name>Black Hole</name>
+    <type>Collectable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This item eats some gained items.</description>
+    <longDescription>This item is a shady little lottery. When you have one in your inventory, you have a random chance to have a gained item (from commands ran, not from your inv) sucked into the black hole and put into an item lottery. This also enters you to win said item lottery and get a share of ALL the items entered.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/932395505382744106.png</imageURL>
+  </items>
+  <items>
+    <id>80</id>
+    <itemKey>blob</itemKey>
+    <name>Blob</name>
+    <type>Collectable</type>
+    <value>50000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>true</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>This is just a shell of its former self, earned for doing basically absolutely nothing during the blob event.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/933188762782011454.gif</imageURL>
+  </items>
+  <items>
+    <id>61</id>
+    <itemKey>blueplasticbits</itemKey>
+    <name>Blue Plastic Bits</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A common blue crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398146249207808.png</imageURL>
+  </items>
+  <items>
+    <id>52</id>
+    <itemKey>bluesplane</itemKey>
+    <name>Blue&#x27;s Plane</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This top-of-the-line aircraft carries only the most prestigious of passengers.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/931691006754189342.gif</imageURL>
+  </items>
+  <items>
+    <id>20</id>
+    <itemKey>boar</itemKey>
+    <name>Boar</name>
+    <type>Sellable</type>
+    <value>4000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This boar is not alive; I think someone shot it. Hakuna matata...</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/861584585656762398.png</imageURL>
+  </items>
+  <items>
+    <id>55</id>
+    <itemKey>cutters</itemKey>
+    <name>Bolt Cutters</name>
+    <type>Collectable</type>
+    <value>100000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Godly</rarity>
+    <description>Originally for developers only, this item instantly breaks all padlocks.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/978074542683611136.png</imageURL>
+  </items>
+  <items>
+    <id>140</id>
+    <itemKey>whiskey</itemKey>
+    <name>Bottle of Whiskey</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A superior alcohol, gives you a better chance to steal from someone and has no negative effects (lasts 15 hours). Found from the bartender job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/978747427983085700.png</imageURL>
+  </items>
+  <items>
+    <id>181</id>
+    <itemKey>boxbox</itemKey>
+    <name>Box Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This box has a box in it, wtf is this russian doll nonsense (can be any box other than a patreon box or bundle box)</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1004915442818756778.gif</imageURL>
+  </items>
+  <items>
+    <id>148</id>
+    <itemKey>sand</itemKey>
+    <name>Box of Sand</name>
+    <type>Tool</type>
+    <value>5000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Chuck some sand in someone&#x27;s face to prevent them from robbing you briefly.</description>
+    <longDescription>Throw a box of sand in someone&#x27;s eyes to prevent them from robbing anyone for 30 minutes.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316901175366.png</imageURL>
+  </items>
+  <items>
+    <id>40</id>
+    <itemKey>boxedchocolates</itemKey>
+    <name>Boxed Chocolates</name>
+    <type>Consumable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A boxy box of boxed chocolates to give to your partner to prove your love!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/936271905357459508.png</imageURL>
+  </items>
+  <items>
+    <id>106</id>
+    <itemKey>bundlebox</itemKey>
+    <name>Bundle Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This has a 50% chance for 1 bread and a 50% chance for an empowered fart bottle. If you get bread and are unhappy with this outcome, please email badosz@dankmemer.gg for a personal apology as this was his idea.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/977726388150894653.gif</imageURL>
+  </items>
+  <items>
+    <id>51</id>
+    <itemKey>bunnysapron</itemKey>
+    <name>Bunny&#x27;s Apron</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A handmade pink apron with bunny ears stitched to the pocket, finely crafted for Michelin Star chefs, is mainly found in the kitchen.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/928417989357891675.png</imageURL>
+  </items>
+  <items>
+    <id>90</id>
+    <itemKey>cactus</itemKey>
+    <name>Cactus</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Rumor has it if you lick it, it will bring you good luck... or not, don&#x27;t believe everything you read.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/944679123962454046.png</imageURL>
+  </items>
+  <items>
+    <id>114</id>
+    <itemKey>camera</itemKey>
+    <name>Camera</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A streamer item that helps you with amount of viewers.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/903730591294439496.png</imageURL>
+  </items>
+  <items>
+    <id>79</id>
+    <itemKey>candy</itemKey>
+    <name>Candy</name>
+    <type>Power-up</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Yum, candy!</description>
+    <longDescription>Consuming this candy will give you a random amount of coins. Yum!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/943637574906417214.png</imageURL>
+  </items>
+  <items>
+    <id>70</id>
+    <itemKey>candycane</itemKey>
+    <name>Candy Cane</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A tasty treat that looks pretty neat.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/920796779405000714.png</imageURL>
+  </items>
+  <items>
+    <id>146</id>
+    <itemKey>phone</itemKey>
+    <name>Cell Phone</name>
+    <type>Tool</type>
+    <value>2000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>true</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A multi-purpose tool you cannot live without.</description>
+    <longDescription>Use your cell phone to text your friends via the notifications system, or ring the police in the case of an emergency or robbery. Your phone won&#x27;t be removed when used; however, misusing it (such as dialing police when there&#x27;s no trouble) may cost you money.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316632346625.png</imageURL>
+  </items>
+  <items>
+    <id>58</id>
+    <itemKey>chillpill</itemKey>
+    <name>Chill Pill</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Just take a chill pill and relax, sheesh.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/943292242523725855.png</imageURL>
+  </items>
+  <items>
+    <id>176</id>
+    <itemKey>chocolatecake</itemKey>
+    <name>Chocolate Cake</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>This fresh and delicious slice of cake was recently baked at a pepe themed bakery.</description>
+    <longDescription>You can use this item to obtain a pepe skin over with our friends at bake.gg!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/998339184139968552.png</imageURL>
+  </items>
+  <items>
+    <id>72</id>
+    <itemKey>christmastree</itemKey>
+    <name>Christmas Tree</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>A beautiful Christmas tree, purely for collecting.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/923011690126254170.png</imageURL>
+  </items>
+  <items>
+    <id>156</id>
+    <itemKey>coinbomb</itemKey>
+    <name>Coin Bomb</name>
+    <type>Tool</type>
+    <value>30000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A bomb that explodes coins for other people to pick up.</description>
+    <longDescription>A bomb that explodes coins for other people to pick up. Dispenses anywhere from â£ 2,000 - â£ 15,000 for other people on the server to pick up in chat. Basically used to get people active and share some coins!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/942168959346704435.gif</imageURL>
+  </items>
+  <items>
+    <id>23</id>
+    <itemKey>fish</itemKey>
+    <name>Common Fish</name>
+    <type>Sellable</type>
+    <value>750</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This is a pretty common fish. You can sell it to gain a few coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/957698195000025158.png</imageURL>
+  </items>
+  <items>
+    <id>4</id>
+    <itemKey>cookie</itemKey>
+    <name>Cookie</name>
+    <type>Sellable</type>
+    <value>500</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A melt in your mouth yummy dummy cookie.</description>
+    <longDescription>This doesn&#x27;t have any unique functionality; it is just a cookie.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/981318260463136778.png</imageURL>
+  </items>
+  <items>
+    <id>8</id>
+    <itemKey>corncob</itemKey>
+    <name>Corncob</name>
+    <type>Sellable</type>
+    <value>1000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A cob of corn, you should post it on Cornhub!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/972246926303051776.png</imageURL>
+  </items>
+  <items>
+    <id>9</id>
+    <itemKey>corndog</itemKey>
+    <name>Corndog</name>
+    <type>Sellable</type>
+    <value>1000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A dog of corn, yum! Wait, that can&#x27;t be right.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/973632646703894588.png</imageURL>
+  </items>
+  <items>
+    <id>94</id>
+    <itemKey>cowboyboots</itemKey>
+    <name>Cowboy Boots</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Found on a skeleton, it&#x27;s believed these were owned by John Wayne himself! </description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/950859370474922094.png</imageURL>
+  </items>
+  <items>
+    <id>91</id>
+    <itemKey>cowboyhat</itemKey>
+    <name>Cowboy Hat</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A 10 gallon hat that kinda smells funny.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/944662489784782859.png</imageURL>
+  </items>
+  <items>
+    <id>41</id>
+    <itemKey>creditcard</itemKey>
+    <name>Credit Card</name>
+    <type>Power-up</type>
+    <value>2000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>Use this credit card to &quot;buy&quot; a friend some premium perks!</description>
+    <longDescription>You can use this card to &quot;buy&quot; someone 5 days of premium perks for Dank Memer. (The $2 perk value)</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/892546328406663168.png</imageURL>
+  </items>
+  <items>
+    <id>124</id>
+    <itemKey>taco</itemKey>
+    <name>Crunchy Taco</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Eating this delicious taco will double your level up rewards for 24 hours. Found from the fast food cook job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/976607098588790804.png</imageURL>
+  </items>
+  <items>
+    <id>81</id>
+    <itemKey>cupidsbigtoe</itemKey>
+    <name>Cupid&#x27;s Big Toe</name>
+    <type>Power-up</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Enhance your multiplier with Cupid&#x27;s presence!</description>
+    <longDescription>Applies a multiplier of **69%** for **69 seconds**. Limited time item for Valentines Day!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/976612203211931678.png</imageURL>
+  </items>
+  <items>
+    <id>39</id>
+    <itemKey>cursedpepe</itemKey>
+    <name>Cursed Pepe</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pepe that NOT EVEN a mother could love.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/933194488241864704.png</imageURL>
+  </items>
+  <items>
+    <id>99</id>
+    <itemKey>daily</itemKey>
+    <name>Daily Box</name>
+    <type>Loot Box</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A reward for voting for Dank Memer! Using this box also gives you a 10-minute double xp boost.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/861390900219478037.gif</imageURL>
+  </items>
+  <items>
+    <id>103</id>
+    <itemKey>dank</itemKey>
+    <name>Dank Box</name>
+    <type>Loot Box</type>
+    <value>600000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Dank rewards for a dank user.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/861390901049425950.gif</imageURL>
+  </items>
+  <items>
+    <id>19</id>
+    <itemKey>deer</itemKey>
+    <name>Deer</name>
+    <type>Sellable</type>
+    <value>2000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This deer is not alive; I think someone shot it. WHO COULD HAVE DONE SUCH A THING TO BAMBI.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/981686994524569710.png</imageURL>
+  </items>
+  <items>
+    <id>171</id>
+    <itemKey>developerbox</itemKey>
+    <name>Developer Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A box containing the personal items of the Dank Memer staff team</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975470580381921310.gif</imageURL>
+  </items>
+  <items>
+    <id>21</id>
+    <itemKey>dragon</itemKey>
+    <name>Dragon</name>
+    <type>Sellable</type>
+    <value>30000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>I hope this dragon isn&#x27;t alive. I think someone shot it? This is probably worth a pretty penny!</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less. Unless...</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/861390869696741396.png</imageURL>
+  </items>
+  <items>
+    <id>18</id>
+    <itemKey>duck</itemKey>
+    <name>Duck</name>
+    <type>Sellable</type>
+    <value>1750</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This duck is not alive; I think someone shot it. WE&#x27;RE EATING GOOD TONIGHT BOYS!</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/920400262911373383.png</imageURL>
+  </items>
+  <items>
+    <id>43</id>
+    <itemKey>ducttape</itemKey>
+    <name>Duct Tape</name>
+    <type>Tool</type>
+    <value>900000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Use this tape to craft certain items with the craft command!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/903663686017749013.png</imageURL>
+  </items>
+  <items>
+    <id>121</id>
+    <itemKey>ectoplasm</itemKey>
+    <name>Ectoplasm</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Some gross ghost left their gunk everywhere. Sell it! Found from the ghost job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975768694435233842.gif</imageURL>
+  </items>
+  <items>
+    <id>87</id>
+    <itemKey>empoweredfartbottle</itemKey>
+    <name>Empowered Fart Bottle</name>
+    <type>Tool</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A really POWERFULLY stinky bottle. You should NOT sniff it! (The same as a fart bottle, but you cannot fail)</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/924808588420059207.gif</imageURL>
+  </items>
+  <items>
+    <id>69</id>
+    <itemKey>enchantedbad</itemKey>
+    <name>Enchanted Badosz&#x27;s Card</name>
+    <type>Collectable</type>
+    <value>100000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Godly</rarity>
+    <description>Perfectly balanced, as all things should be.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/931295850292989973.gif</imageURL>
+  </items>
+  <items>
+    <id>139</id>
+    <itemKey>energydrink</itemKey>
+    <name>Energy Drink</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A delicious energy drink. Found from the pro gamer job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/989307051945648178.png</imageURL>
+  </items>
+  <items>
+    <id>163</id>
+    <itemKey>ring</itemKey>
+    <name>Engagement Ring</name>
+    <type>Collectable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>false</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Propose to someone!</description>
+    <longDescription>Propose to someone! Marriage has a lot of benefits and downsides, be careful!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/862369027984064552.png</imageURL>
+  </items>
+  <items>
+    <id>25</id>
+    <itemKey>exoticfish</itemKey>
+    <name>Exotic Fish</name>
+    <type>Sellable</type>
+    <value>5000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This is a really rare fish. You can sell it to gain a large sum of coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/970794371869995058.png</imageURL>
+  </items>
+  <items>
+    <id>151</id>
+    <itemKey>fakeid</itemKey>
+    <name>Fake ID</name>
+    <type>Tool</type>
+    <value>20000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Disguise your identity on the `/top` command</description>
+    <longDescription>Disguise your identity on the leaderboard with a random fake name! Lasts for 1 week. Also, it will hide you from robbers&#x27; wishlists.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/966338245443080213.png</imageURL>
+  </items>
+  <items>
+    <id>32</id>
+    <itemKey>fartinabottle</itemKey>
+    <name>Fart In A Bottle</name>
+    <type>Consumable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A really stinky bottle. Should you sniff it? &quot;You&#x27;re either a smart fella or a fart smella.&quot; -TheLazyTownie</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/860285654009511936.png</imageURL>
+  </items>
+  <items>
+    <id>149</id>
+    <itemKey>spinner</itemKey>
+    <name>Fidget Spinner</name>
+    <type>Collectable</type>
+    <value>50000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Thank god, spinning these moved back to a stimming tool and away from a trendy meme.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/873970101479686194.gif</imageURL>
+  </items>
+  <items>
+    <id>133</id>
+    <itemKey>bait</itemKey>
+    <name>Fishing Bait</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>While this item is active (1 hour), you will always find something while fishing. Found from the professional fisherman job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/992184511674728501.png</imageURL>
+  </items>
+  <items>
+    <id>154</id>
+    <itemKey>fishingpole</itemKey>
+    <name>Fishing Pole</name>
+    <type>Tool</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Use this to access `/fish`.</description>
+    <longDescription>This fishing pole allows you to use the fish command, giving you potentially lots of different types of items!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/868519722759630858.png</imageURL>
+  </items>
+  <items>
+    <id>74</id>
+    <itemKey>fool</itemKey>
+    <name>Fool&#x27;s Notif</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>In a simpler time, this was an effective tool to &quot;prank&quot; your friends</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/960588198331957278.gif</imageURL>
+  </items>
+  <items>
+    <id>15</id>
+    <itemKey>fossil</itemKey>
+    <name>Fossil</name>
+    <type>Sellable</type>
+    <value>7500</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>The fossil of a beast from eons ago.</description>
+    <longDescription>This fossil is obviously not alive. You should sell it and nothing else. Right?</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/921790077393338378.png</imageURL>
+  </items>
+  <items>
+    <id>5</id>
+    <itemKey>bread</itemKey>
+    <name>Fresh Bread</name>
+    <type>Sellable</type>
+    <value>500</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>The best fresh bread from our meme bakery made daily!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/980955203018821632.png</imageURL>
+  </items>
+  <items>
+    <id>77</id>
+    <itemKey>gift</itemKey>
+    <name>Friend&#x27;s Gift</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Buy this to send to a friend to open.</description>
+    <longDescription>Once upon a time this collectible item was able to be turned into a lootbox for a friend</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/987156741110255716.png</imageURL>
+  </items>
+  <items>
+    <id>2</id>
+    <itemKey>garbage</itemKey>
+    <name>Garbage</name>
+    <type>Sellable</type>
+    <value>200</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A garbage thing, not worth much.</description>
+    <longDescription>This is an absolute garbage item.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/935631382590394398.png</imageURL>
+  </items>
+  <items>
+    <id>98</id>
+    <itemKey>giftbox</itemKey>
+    <name>Gift Box</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Once upon a time, this was a lootbox. Now it&#x27;s a relic meant to be collected.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/987157087693975612.png</imageURL>
+  </items>
+  <items>
+    <id>104</id>
+    <itemKey>god</itemKey>
+    <name>God Box</name>
+    <type>Loot Box</type>
+    <value>1500000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>What the hell this is op god tier box.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/861390900688977950.gif</imageURL>
+  </items>
+  <items>
+    <id>44</id>
+    <itemKey>goldencorndog</itemKey>
+    <name>Golden Corndog</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A corndog... BUT IT&#x27;S GOLDEN!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/987046202212237392.png</imageURL>
+  </items>
+  <items>
+    <id>97</id>
+    <itemKey>goldennugget</itemKey>
+    <name>Golden Nugget</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A nugget of pure gold, or is it fools gold? Who cares, it&#x27;s shiny!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/945419831535083570.png</imageURL>
+  </items>
+  <items>
+    <id>64</id>
+    <itemKey>goldenplasticbits</itemKey>
+    <name>Golden Plastic Bits</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A rare golden crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398146416971907.png</imageURL>
+  </items>
+  <items>
+    <id>118</id>
+    <itemKey>greenscreen</itemKey>
+    <name>Green Screen</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A streamer item that increases your revenue.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/904821937807716352.png</imageURL>
+  </items>
+  <items>
+    <id>110</id>
+    <itemKey>grindpack</itemKey>
+    <name>Grind Pack</name>
+    <type>Pack</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pack containing items to start your love-hate relationship with grinding.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/873172443685064744.png</imageURL>
+  </items>
+  <items>
+    <id>119</id>
+    <itemKey>headphones</itemKey>
+    <name>Headphones</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A streamer item that increases your max idle time.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/904886213087989761.png</imageURL>
+  </items>
+  <items>
+    <id>37</id>
+    <itemKey>stocking</itemKey>
+    <name>Holiday Stocking</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A fancy sock holding fun treats and trinkets for the holidays.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/920812196567597067.png</imageURL>
+  </items>
+  <items>
+    <id>191</id>
+    <itemKey>holybadoszbread</itemKey>
+    <name>Holy Badosz&#x27;s Bread</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>This bread might be holy, but it smells TERRIBLE and probably should not be touched with a ten foot pole. This must be 10,000 years old.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1010341373154689164.gif</imageURL>
+  </items>
+  <items>
+    <id>192</id>
+    <itemKey>holywater</itemKey>
+    <name>Holy Water</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>This water is (metaphorically) used to cleanse the eyes of anyone who looked at Badosz</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1010314176511627344.png</imageURL>
+  </items>
+  <items>
+    <id>166</id>
+    <itemKey>huntingrifle</itemKey>
+    <name>Hunting Rifle</name>
+    <type>Tool</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Use this to access `/hunt`.</description>
+    <longDescription>This hunting rifle allows you to use the hunt command, giving you potentially lots of different types of items!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/868286178070261760.png</imageURL>
+  </items>
+  <items>
+    <id>78</id>
+    <itemKey>jacky</itemKey>
+    <name>Jacky o&#x27; Lanty</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>Put on a Jacky and join in on the spooky season!</description>
+    <longDescription>Equip this and turn all embed colors (the color on the side of embeds) into spooky season colors.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/968850393431961630.gif</imageURL>
+  </items>
+  <items>
+    <id>83</id>
+    <itemKey>jarofsingularity</itemKey>
+    <name>Jar Of Singularity</name>
+    <type>Collectable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This could be important in the future...</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/932759942081941515.png</imageURL>
+  </items>
+  <items>
+    <id>26</id>
+    <itemKey>jellyfish</itemKey>
+    <name>Jelly Fish</name>
+    <type>Sellable</type>
+    <value>8000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This is a really neat jellyfish. You can sell it to gain a large sum of coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/971160094349869126.png</imageURL>
+  </items>
+  <items>
+    <id>3</id>
+    <itemKey>junk</itemKey>
+    <name>Junk</name>
+    <type>Sellable</type>
+    <value>200</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A junky thing, not worth much.</description>
+    <longDescription>This is an absolute junk item. This item additionally no longer drops from any sources.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/981272956351156234.png</imageURL>
+  </items>
+  <items>
+    <id>174</id>
+    <itemKey>kablessunglasses</itemKey>
+    <name>Kable&#x27;s Sunglasses</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>chad item for virgin developer</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/969374516205719592.gif</imageURL>
+  </items>
+  <items>
+    <id>113</id>
+    <itemKey>keyboard</itemKey>
+    <name>Keyboard</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A basic streaming item for the `/stream` command!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/904821868312268850.png</imageURL>
+  </items>
+  <items>
+    <id>28</id>
+    <itemKey>kraken</itemKey>
+    <name>Kraken</name>
+    <type>Sellable</type>
+    <value>75000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>The king of the sea can be sold to fill your pockets.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less..?</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/860228238956429313.png</imageURL>
+  </items>
+  <items>
+    <id>13</id>
+    <itemKey>ladybug</itemKey>
+    <name>Ladybug</name>
+    <type>Sellable</type>
+    <value>3000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This ladybug is not alive; I think someone shot it? This smells stale as crap.</description>
+    <longDescription>This ladybug is not alive; I think someone shot it? This smells stale as crap. This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/863198415822389268.png</imageURL>
+  </items>
+  <items>
+    <id>150</id>
+    <itemKey>landmine</itemKey>
+    <name>Landmine</name>
+    <type>Tool</type>
+    <value>20000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Blows up when someone steps on it when trying to steal from you, potentially killing them.</description>
+    <longDescription>If someone tries to steal from you, there&#x27;s a 50% chance they will die from blowing up. Lasts 24 hours.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/887000049354145792.png</imageURL>
+  </items>
+  <items>
+    <id>168</id>
+    <itemKey>laptop</itemKey>
+    <name>Laptop</name>
+    <type>Collectable</type>
+    <value>5000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Who needs a laptop when you have a vr set on your face for everything</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316674813974.png</imageURL>
+  </items>
+  <items>
+    <id>92</id>
+    <itemKey>lasso</itemKey>
+    <name>Lasso</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>I bet you can&#x27;t do any of those cool lasso tricks that real cowboys can do.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/950807315915870279.png</imageURL>
+  </items>
+  <items>
+    <id>143</id>
+    <itemKey>lawdegree</itemKey>
+    <name>Law Degree</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Anyone can be a lawyer these days, just sell them this! Found from the lawyer job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/976890603772186624.png</imageURL>
+  </items>
+  <items>
+    <id>27</id>
+    <itemKey>legendaryfish</itemKey>
+    <name>Legendary Fish</name>
+    <type>Sellable</type>
+    <value>20000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>This is a really, REALLY rare fish. You can sell it to gain a massive sum of coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/971430841211322408.gif</imageURL>
+  </items>
+  <items>
+    <id>158</id>
+    <itemKey>lifesaver</itemKey>
+    <name>Life Saver</name>
+    <type>Power-up</type>
+    <value>85000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Quite literally saves your life and keeps you from dying!</description>
+    <longDescription>Having one in your inventory prevents death and uses one when you almost die. This is used BEFORE the apple&#x27;s effects.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/935147848977219635.gif</imageURL>
+  </items>
+  <items>
+    <id>123</id>
+    <itemKey>likebutton</itemKey>
+    <name>Like Button</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Like any other YouTuber, you should beg and collect these likes as much as possible. They are IMPORTANT TO BEING A GREAT YOUTUBER! Found from the youtuber job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/991768633611141200.png</imageURL>
+  </items>
+  <items>
+    <id>47</id>
+    <itemKey>karen</itemKey>
+    <name>Literally Karen</name>
+    <type>Collectable</type>
+    <value>100000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Godly</rarity>
+    <description>The Karens on this bot are really annoying. You know who they are.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/860196324762452028.png</imageURL>
+  </items>
+  <items>
+    <id>71</id>
+    <itemKey>tree</itemKey>
+    <name>Literally a Tree</name>
+    <type>Sellable</type>
+    <value>1000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>This is just a plain tree.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/923005301421113344.png</imageURL>
+  </items>
+  <items>
+    <id>157</id>
+    <itemKey>horseshoe</itemKey>
+    <name>Lucky Horseshoe</name>
+    <type>Power-up</type>
+    <value>75000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Using this increases your luck in some grind commands for a few minutes!</description>
+    <longDescription>No one is sure exactly how much this increased your luck, but it&#x27;s different for each command! This affects hunt, fish, beg, search, crime, postmemes, steal, dig, and gamble!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/986396363707281468.png</imageURL>
+  </items>
+  <items>
+    <id>48</id>
+    <itemKey>melmsiebeard</itemKey>
+    <name>Melmsie&#x27;s Beard</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>Who shaved this off their face? That seems gross.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/934601991097819216.png</imageURL>
+  </items>
+  <items>
+    <id>102</id>
+    <itemKey>meme</itemKey>
+    <name>Meme Box</name>
+    <type>Loot Box</type>
+    <value>300000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Something actually worth opening.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/861390901300953118.gif</imageURL>
+  </items>
+  <items>
+    <id>138</id>
+    <itemKey>memepills</itemKey>
+    <name>Meme pills</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Pills that have literally no function besides selling. Found from the pharmacist job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/834080273804689409.png</imageURL>
+  </items>
+  <items>
+    <id>82</id>
+    <itemKey>meteorite</itemKey>
+    <name>Meteorite</name>
+    <type>Sellable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A chunk of space rock with some interesting signs of life on it.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/932047375579643944.gif</imageURL>
+  </items>
+  <items>
+    <id>115</id>
+    <itemKey>microphone</itemKey>
+    <name>Microphone</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A streamer item that helps you with stability of your stream.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/903784794398294036.png</imageURL>
+  </items>
+  <items>
+    <id>120</id>
+    <itemKey>poster</itemKey>
+    <name>Motivational Poster</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Provides a 5% work payout bonus, stacking up to 50%. Found from the manager job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/980515661619003482.png</imageURL>
+  </items>
+  <items>
+    <id>112</id>
+    <itemKey>mouse</itemKey>
+    <name>Mouse</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A basic streaming item for the `/stream` command!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/904821818425241600.png</imageURL>
+  </items>
+  <items>
+    <id>65</id>
+    <itemKey>multiplasticbits</itemKey>
+    <name>Multi Colored Plastic Bits</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A rare multi-colored crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398148660928602.gif</imageURL>
+  </items>
+  <items>
+    <id>145</id>
+    <itemKey>note</itemKey>
+    <name>Musical Note</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>The record label did not want your music, so sell it to Dank Memer. Found from the musician job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/910673407761317928.gif</imageURL>
+  </items>
+  <items>
+    <id>107</id>
+    <itemKey>newplayerpack</itemKey>
+    <name>New Player Pack</name>
+    <type>Pack</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pack to get you started within Dank Memer&#x27;s economy.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/873172443529891871.png</imageURL>
+  </items>
+  <items>
+    <id>101</id>
+    <itemKey>normie</itemKey>
+    <name>Normie Box</name>
+    <type>Loot Box</type>
+    <value>35000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Can&#x27;t get more basic than this.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/861390901405679626.gif</imageURL>
+  </items>
+  <items>
+    <id>57</id>
+    <itemKey>eye</itemKey>
+    <name>Odd Eye</name>
+    <type>Collectable</type>
+    <value>100000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Godly</rarity>
+    <description>This eye is odd and reasonably creepy. It has probably close to 20k veins, ew.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/993233845174415380.gif</imageURL>
+  </items>
+  <items>
+    <id>178</id>
+    <itemKey>oldbox</itemKey>
+    <name>Old Box</name>
+    <type>Loot Box</type>
+    <value>2000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>This box contains items that are old and no longer trendy or easy to acquire</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/895447304805429278.gif</imageURL>
+  </items>
+  <items>
+    <id>93</id>
+    <itemKey>revolver</itemKey>
+    <name>Old Cowboy Revolver</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Legend says this once belonged to a famous gunslinger before they sold it for a bottle of farts...</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/946724166223138856.gif</imageURL>
+  </items>
+  <items>
+    <id>63</id>
+    <itemKey>orangeplasticbits</itemKey>
+    <name>Orange Plastic Bits</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>An uncommon orange crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398146333081690.png</imageURL>
+  </items>
+  <items>
+    <id>38</id>
+    <itemKey>ornament</itemKey>
+    <name>Ornament</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A cute little ornament for Christmas.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/921193342501539891.png</imageURL>
+  </items>
+  <items>
+    <id>182</id>
+    <itemKey>outwestbox</itemKey>
+    <name>Out West Adventure Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This box contains items from the &quot;Pepe goes out west&quot; adventure!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1006333035970576394.gif</imageURL>
+  </items>
+  <items>
+    <id>167</id>
+    <itemKey>padlock</itemKey>
+    <name>Padlock</name>
+    <type>Tool</type>
+    <value>5000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Lock a padlock on your wallet to prevent people from robbing you.</description>
+    <longDescription>Lock a padlock on your wallet to prevent people from robbing you. This is a one-time use item; once the lock is broken or removed, it won&#x27;t come back or do anything unless you buy another one. It will not ALWAYS break, but it has a chance to break when someone tries to steal from you.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316900651059.png</imageURL>
+  </items>
+  <items>
+    <id>105</id>
+    <itemKey>patreon</itemKey>
+    <name>Patreon Box</name>
+    <type>Loot Box</type>
+    <value>2000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>This box is only for our loyal patrons! (Unless of course they choose to trade it)</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/892171107845677066.gif</imageURL>
+  </items>
+  <items>
+    <id>111</id>
+    <itemKey>patreonpack</itemKey>
+    <name>Patreon Pack</name>
+    <type>Pack</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pack you get once per week for being a patron!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/921546973218218064.png</imageURL>
+  </items>
+  <items>
+    <id>180</id>
+    <itemKey>pepebox</itemKey>
+    <name>Pepe Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This box contains every pepe themed item in the game that is not a limited time drop</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1001266209628631071.gif</imageURL>
+  </items>
+  <items>
+    <id>164</id>
+    <itemKey>pepecoin</itemKey>
+    <name>Pepe Coin</name>
+    <type>Collectable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A pretty rare coin, a relic to show wealth in simpler times!</description>
+    <longDescription>This coin is primarily for flexing on normies who cannot afford one. Once upon a time, it was the most expensive item on the bot!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/942212715454271518.gif</imageURL>
+  </items>
+  <items>
+    <id>147</id>
+    <itemKey>pepecrown</itemKey>
+    <name>Pepe Crown</name>
+    <type>Collectable</type>
+    <value>250000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>true</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Godly</rarity>
+    <description>Literally, only the richest of the richest of the richest of the richest of the richest of the rich will hold these beloved crowns. At least until another expensive item comes along, LOL.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/834862725120917544.png</imageURL>
+  </items>
+  <items>
+    <id>165</id>
+    <itemKey>pepemedal</itemKey>
+    <name>Pepe Medal</name>
+    <type>Collectable</type>
+    <value>12000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>A medal only the top 5% of players have!</description>
+    <longDescription>Owning this medal gives you an extra 5% steal shields (does not stack). Otherwise, it is used to flex on normies who cannot afford one!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/948673104870252564.gif</imageURL>
+  </items>
+  <items>
+    <id>33</id>
+    <itemKey>peperibbon</itemKey>
+    <name>Pepe Ribbon</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>It is a proper flex to carry this esteemed ribbon.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/890646381482614824.png</imageURL>
+  </items>
+  <items>
+    <id>190</id>
+    <itemKey>pepering</itemKey>
+    <name>Pepe Ring</name>
+    <type>Collectable</type>
+    <value>100000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>A ring to flex on people with bare fingers</description>
+    <longDescription>This ring is an item esteemed by all except those sporting crowns. You cannot use it, it&#x27;s a ring not a go go gadget.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/1006984234763825263.png</imageURL>
+  </items>
+  <items>
+    <id>66</id>
+    <itemKey>pepestatue</itemKey>
+    <name>Pepe Statue</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>It is a neat collectible statue similar to a coin you can buy.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/993285762697146449.png</imageURL>
+  </items>
+  <items>
+    <id>35</id>
+    <itemKey>pepesus</itemKey>
+    <name>Pepe Sus</name>
+    <type>Collectable</type>
+    <value>50000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>Pepe is looking a little SUS today.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/890646381189009438.png</imageURL>
+  </items>
+  <items>
+    <id>155</id>
+    <itemKey>pepetrophy</itemKey>
+    <name>Pepe Trophy</name>
+    <type>Collectable</type>
+    <value>45000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>A trophy to flex how rich you are! You are rich enough to afford this... right?</description>
+    <longDescription>Having this trophy gives you a 5% multiplier, an extra 10% steal shields, and an extra 5% chance at random events spawning (does not stack). Otherwise, it is used to flex on normies who cannot afford one!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/940712966213496842.gif</imageURL>
+  </items>
+  <items>
+    <id>134</id>
+    <itemKey>collar</itemKey>
+    <name>Pet Collar</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Owning this item gives you a higher chance to find pets that ran away Found from the veterinarian job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/936381028396847195.png</imageURL>
+  </items>
+  <items>
+    <id>184</id>
+    <itemKey>saddle</itemKey>
+    <name>Pet Saddle</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Ride your pet into the sunset</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/946176458865405982.png</imageURL>
+  </items>
+  <items>
+    <id>60</id>
+    <itemKey>pinkplasticbits</itemKey>
+    <name>Pink Plastic Bits</name>
+    <type>Collectable</type>
+    <value>12</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A common pink crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398146152738906.png</imageURL>
+  </items>
+  <items>
+    <id>162</id>
+    <itemKey>pizza</itemKey>
+    <name>Pizza Slice</name>
+    <type>Power-up</type>
+    <value>300000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Eat this for a chunky xp multiplier!</description>
+    <longDescription>Eating this perfect pizza slice will give you +250% xp gains for an hour.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/940735144849985596.gif</imageURL>
+  </items>
+  <items>
+    <id>189</id>
+    <itemKey>plasticbox</itemKey>
+    <name>Plastic Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This box contains every plastic bit</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1003453280438988900.gif</imageURL>
+  </items>
+  <items>
+    <id>127</id>
+    <itemKey>policebadge</itemKey>
+    <name>Police Badge</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A shiny police badge, found in the police station on the ground. Found from the police officer job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/979517884101459999.png</imageURL>
+  </items>
+  <items>
+    <id>6</id>
+    <itemKey>potato</itemKey>
+    <name>Potato â˜­</name>
+    <type>Sellable</type>
+    <value>2000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A good communist potato, very tasty and reminds you of your motherland.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/992123899498221698.png</imageURL>
+  </items>
+  <items>
+    <id>45</id>
+    <itemKey>prestigecoin</itemKey>
+    <name>Prestige Coin</name>
+    <type>Power-up</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Earned from prestiging, use this coin to activate your post-prestige bonus multi. It gives you 6 hours of 350% multiplier.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/899772669262700615.png</imageURL>
+  </items>
+  <items>
+    <id>108</id>
+    <itemKey>prestigepack</itemKey>
+    <name>Prestige Pack</name>
+    <type>Pack</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>A pack to get you back on your feet after prestiging.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/898709240837976064.png</imageURL>
+  </items>
+  <items>
+    <id>62</id>
+    <itemKey>purpleplasticbits</itemKey>
+    <name>Purple Plastic Bits</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>An uncommon purple crafting material</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/975398146618306630.png</imageURL>
+  </items>
+  <items>
+    <id>17</id>
+    <itemKey>rabbit</itemKey>
+    <name>Rabbit</name>
+    <type>Sellable</type>
+    <value>1500</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This rabbit is not alive; I think someone shot it. Rabbit fur is pretty soft...</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/860665246875254784.png</imageURL>
+  </items>
+  <items>
+    <id>24</id>
+    <itemKey>rarefish</itemKey>
+    <name>Rare Fish</name>
+    <type>Sellable</type>
+    <value>2500</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This is a fairly rare fish. You can sell it to gain a fair amount of coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/971151079096061962.png</imageURL>
+  </items>
+  <items>
+    <id>160</id>
+    <itemKey>pepe</itemKey>
+    <name>Rare Pepe</name>
+    <type>Collectable</type>
+    <value>50000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A lone rare pepe made to collect and flex how many you can get compared to your friends.</description>
+    <longDescription>The rare pepe is only used for collecting or flexing on normies who cannot afford one. Although basically anyone can afford one these days...</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/936007340736536626.png</imageURL>
+  </items>
+  <items>
+    <id>56</id>
+    <itemKey>reversal</itemKey>
+    <name>Reversal Card</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A legacy item from a simpler time in Dank Memer. This item is now just a collectible for those who already had them in the past.</description>
+    <longDescription>Reversal cards were previously used to reverse a steal someone performed on you. Due to being SUPER buggy and causing multiple exploits, they were removed. They are now back for those who already had them in their inventories, but not functional and just for collecting.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/573150370579087360.png</imageURL>
+  </items>
+  <items>
+    <id>117</id>
+    <itemKey>ringlight</itemKey>
+    <name>Ring Light</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A streamer item that lowers your min time between stream interactions.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/905501619523829780.png</imageURL>
+  </items>
+  <items>
+    <id>141</id>
+    <itemKey>robbersmask</itemKey>
+    <name>Robbers Mask</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Your name will not show up on steal or bankrob notifs sent to the victim for 12 hours after using. Found from the robber job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/991364525783785512.png</imageURL>
+  </items>
+  <items>
+    <id>159</id>
+    <itemKey>wishlist</itemKey>
+    <name>Robbers Wishlist</name>
+    <type>Tool</type>
+    <value>50000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A robber&#x27;s best friend! List all users able to be robbed within a server!</description>
+    <longDescription>This item when used gives a list of users that aren&#x27;t passive and do not have a fake ID on. Basically, anyone who is able to be robbed!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/966630329756565594.png</imageURL>
+  </items>
+  <items>
+    <id>29</id>
+    <itemKey>scepter</itemKey>
+    <name>Royal Scepter</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A royal scepter fit for only the most luxurious kings.</description>
+    <longDescription>A royal scepter such as this is worth close to 50k gold carats, dang! You can either use this item to obtain royalty-embedded colors or keep it in your collection.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/926573136558850139.gif</imageURL>
+  </items>
+  <items>
+    <id>188</id>
+    <itemKey>hotdog</itemKey>
+    <name>Sanic Hot Dog</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>It is an off brand hotdog trying to be as cool as that similar drive in place&#x27;s hot dogs</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/959925962412269630.png</imageURL>
+  </items>
+  <items>
+    <id>131</id>
+    <itemKey>santasbag</itemKey>
+    <name>Santa&#x27;s Bag</name>
+    <type>Loot Box</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>Santa has a bag full of goodies. Some pretty rare goodies too.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/862415055622635560.png</imageURL>
+  </items>
+  <items>
+    <id>76</id>
+    <itemKey>santashat</itemKey>
+    <name>Santa&#x27;s Hat</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Put on Santa&#x27;s hat and join in on the holiday spirit!</description>
+    <longDescription>Equip Santa&#x27;s hat and turn all embed colors (the color on the side of embeds) into Christmas-themed colors!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/921546940032880660.png</imageURL>
+  </items>
+  <items>
+    <id>67</id>
+    <itemKey>urinal</itemKey>
+    <name>School Urinal</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>The most devious lick.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/889266191808471114.png</imageURL>
+  </items>
+  <items>
+    <id>22</id>
+    <itemKey>seaweed</itemKey>
+    <name>Seaweed</name>
+    <type>Sellable</type>
+    <value>250</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Some slimy seaweed. You can sell it to gain a tiny portion of coins.</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/887000050201419787.gif</imageURL>
+  </items>
+  <items>
+    <id>89</id>
+    <itemKey>shootingstar</itemKey>
+    <name>Shooting Star</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Make a wish! Or don&#x27;t, I can&#x27;t force you.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/923291410130686022.png</imageURL>
+  </items>
+  <items>
+    <id>144</id>
+    <itemKey>coupon</itemKey>
+    <name>Shop Coupon</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>You will have the option to use this at a shop checkout. You can get 5% off any purchase from the shop. Found from the dank memer shopkeeper job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/977969734307971132.png</imageURL>
+  </items>
+  <items>
+    <id>153</id>
+    <itemKey>shovel</itemKey>
+    <name>Shovel</name>
+    <type>Tool</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>true</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Use this to access `/dig`.</description>
+    <longDescription>This shovel allows you to use the dig command, giving you potentially lots of different types of items!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/868263822035669002.png</imageURL>
+  </items>
+  <items>
+    <id>161</id>
+    <itemKey>cheese</itemKey>
+    <name>Shredded Cheese</name>
+    <type>Power-up</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A mystic bag of light-golden shredded cheese. Earn an XP multiplier!</description>
+    <longDescription>Dump an entire bag of shredded cheese into your face hole. For every bag of shredded cheese consumed, you get a stacking EXP multiplier, capping at **85%** (**30** bags of cheese consumed).</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/830509316933943307.png</imageURL>
+  </items>
+  <items>
+    <id>16</id>
+    <itemKey>skunk</itemKey>
+    <name>Skunk</name>
+    <type>Sellable</type>
+    <value>1250</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This skunk is not alive; I think someone shot it. GOD, IT SMELLS WTF!</description>
+    <longDescription>This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/861390875992522792.png</imageURL>
+  </items>
+  <items>
+    <id>75</id>
+    <itemKey>snowball</itemKey>
+    <name>Snowball</name>
+    <type>Tool</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>Threaten someone with a snowball!</description>
+    <longDescription>You will use this to prepare a snowball with a user&#x27;s name on it. This will prevent them from doing anything bad to you for a few minutes, like robbing you or putting negative items on you!</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/992137642479190216.png</imageURL>
+  </items>
+  <items>
+    <id>68</id>
+    <itemKey>snowflake</itemKey>
+    <name>Snowflake</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Every snowflake is unique... but not in this bot.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/920796800774991932.png</imageURL>
+  </items>
+  <items>
+    <id>116</id>
+    <itemKey>soundcard</itemKey>
+    <name>Sound Card</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>A meta streamer item that helps you get other streamer items.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/905572838847684648.png</imageURL>
+  </items>
+  <items>
+    <id>183</id>
+    <itemKey>inspacebox</itemKey>
+    <name>Space Adventure Box</name>
+    <type>Loot Box</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>This box contains items from the &quot;Pepe goes to space&quot; adventure!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1006333035970576394.gif</imageURL>
+  </items>
+  <items>
+    <id>14</id>
+    <itemKey>spider</itemKey>
+    <name>Spider</name>
+    <type>Sellable</type>
+    <value>5000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>This spider is not alive; I think someone shot it? Yeah that checks out, spiders suck.</description>
+    <longDescription>This spider is not alive; I think someone shot it? Yeah that checks out, spiders suck. This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/864261394944884746.png</imageURL>
+  </items>
+  <items>
+    <id>129</id>
+    <itemKey>cash</itemKey>
+    <name>Stack of Cash</name>
+    <type>Collectable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A tradeable item with the bot. Use it to trade for banknotes or pizzas. Found from the politician job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/862774540895125584.png</imageURL>
+  </items>
+  <items>
+    <id>88</id>
+    <itemKey>starfragment</itemKey>
+    <name>Star Fragment</name>
+    <type>Sellable</type>
+    <value>500000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A fragment of a shooting star. I wonder what this can be used for?</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/923291410323603457.png</imageURL>
+  </items>
+  <items>
+    <id>12</id>
+    <itemKey>stickbug</itemKey>
+    <name>Stickbug</name>
+    <type>Sellable</type>
+    <value>2000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This stickbug is not alive; I think someone shot it? Is the meme really that annoying?</description>
+    <longDescription>This stickbug is not alive; I think someone shot it? Is the meme really that annoying? This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/864568819795755038.gif</imageURL>
+  </items>
+  <items>
+    <id>137</id>
+    <itemKey>stonkmachine</itemKey>
+    <name>Stonk Machine</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>true</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Use this machine to try and earn some coins from stonk investment. Warning, there is a 10% chance to lose 10% of your wallet from a bad investment! Found from the day trader job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/990673255457239070.gif</imageURL>
+  </items>
+  <items>
+    <id>50</id>
+    <itemKey>streakfreeze</itemKey>
+    <name>Streak Freeze</name>
+    <type>Power-up</type>
+    <value>2000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>This item will prevent you from losing your daily streak ONE time.</description>
+    <longDescription>Using this item will turn it into an active item that lasts 30 days. After it&#x27;s equipped, you will retain your streak if you run daily after missing 1+ days. This is automatically destroyed at that point or when it expires.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/921501533273751682.png</imageURL>
+  </items>
+  <items>
+    <id>34</id>
+    <itemKey>sugarskull</itemKey>
+    <name>Sugar Skull</name>
+    <type>Consumable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A delicious treat to celebrate DÃ­a de los Muertos. Only dropped in 2021.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/894597638161326091.png</imageURL>
+  </items>
+  <items>
+    <id>30</id>
+    <itemKey>letter</itemKey>
+    <name>The Letter</name>
+    <type>Collectable</type>
+    <value>25000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>What&#x27;s in the letter? Open it up to find out!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/926522932560269413.gif</imageURL>
+  </items>
+  <items>
+    <id>170</id>
+    <itemKey>tidepod</itemKey>
+    <name>Tidepod</name>
+    <type>Collectable</type>
+    <value>50000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Uncommon</rarity>
+    <description>Can you believe people thought it was a good idea to eat these?</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/887000049740030032.png</imageURL>
+  </items>
+  <items>
+    <id>125</id>
+    <itemKey>tipjar</itemKey>
+    <name>Tip Jar</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>true</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>You can check this tip jar once every hour! Sometimes you can find some neat stuff... Found from the twitch streamer job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/976886606680178698.png</imageURL>
+  </items>
+  <items>
+    <id>36</id>
+    <itemKey>toiletpaper</itemKey>
+    <name>Toilet Paper</name>
+    <type>Collectable</type>
+    <value>50000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>If we learned anything during the pandemic, it&#x27;s that TP is VALUABLE.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/928399081112469544.png</imageURL>
+  </items>
+  <items>
+    <id>175</id>
+    <itemKey>townieseyes</itemKey>
+    <name>Townie&#x27;s Eyes</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Townie sees all</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/959429404541468713.gif</imageURL>
+  </items>
+  <items>
+    <id>1</id>
+    <itemKey>trash</itemKey>
+    <name>Trash</name>
+    <type>Sellable</type>
+    <value>200</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>A trashy thing, not worth much.</description>
+    <longDescription>This is an absolute trash item. This item additionally no longer drops from any sources.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/986723862190383165.png</imageURL>
+  </items>
+  <items>
+    <id>95</id>
+    <itemKey>treasuremap</itemKey>
+    <name>Treasure Map</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>The text is written in a strange language, but you can just about make out the location of the treasure - https://youtu.be/dQw4w9WgXcQ</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/945442853016973343.png</imageURL>
+  </items>
+  <items>
+    <id>96</id>
+    <itemKey>tumbleweed</itemKey>
+    <name>Tumbleweed</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>If you listen carefully, you can hear your hopes and dreams drift away with it...</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/953310228600983612.gif</imageURL>
+  </items>
+  <items>
+    <id>122</id>
+    <itemKey>diaper</itemKey>
+    <name>Used Diaper</name>
+    <type>Tool</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Throw this used diaper at someone to prevent them from joining or starting a heist for 12 hours. Found from the house wife job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/976572178348793858.png</imageURL>
+  </items>
+  <items>
+    <id>136</id>
+    <itemKey>vaccine</itemKey>
+    <name>Vaccine</name>
+    <type>Sellable</type>
+    <value>100000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Are we sure this is a vaccine and not some other drug? Found from the doctor job.</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/979145429138673744.png</imageURL>
+  </items>
+  <items>
+    <id>100</id>
+    <itemKey>weddinggift</itemKey>
+    <name>Wedding Gift</name>
+    <type>Loot Box</type>
+    <value>60000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A gift for marrying someone!</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/877566903516790855.png</imageURL>
+  </items>
+  <items>
+    <id>54</id>
+    <itemKey>lotterywinner</itemKey>
+    <name>Winning Lottery Ticket</name>
+    <type>Collectable</type>
+    <value>5000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Epic</rarity>
+    <description>Proof that you won the lottery once upon a time.</description>
+    <longDescription>This allows you to brag to your friends or enemies about winning the lottery and gives you a 2% higher chance at random events.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/828630267983298580.png</imageURL>
+  </items>
+  <items>
+    <id>179</id>
+    <itemKey>workbox</itemKey>
+    <name>Work Box</name>
+    <type>Loot Box</type>
+    <value>2000000</value>
+    <flags>
+      <CONSUMABLE>true</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Legendary</rarity>
+    <description>This box contains every work item in the game</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/1004537002869411970.gif</imageURL>
+  </items>
+  <items>
+    <id>10</id>
+    <itemKey>worm</itemKey>
+    <name>Worm</name>
+    <type>Sellable</type>
+    <value>500</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Common</rarity>
+    <description>This worm is not alive; I think someone shot it? Who shoots a worm wtf.</description>
+    <longDescription>This worm is not alive; I think someone shot it? Who shoots a worm wtf. This item&#x27;s purpose is to be collected or sold. Nothing more, nothing less.</longDescription>
+    <imageURL>https://cdn.discordapp.com/emojis/864261394920898600.png</imageURL>
+  </items>
+  <items>
+    <id>53</id>
+    <itemKey>yengpaw</itemKey>
+    <name>Yeng&#x27;s Paw</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>A squishy paw that can relieve stress and make you smile. SQUISH! SQUISH! SQUISH! (Yeng Gang rise up)</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/927305405988753468.gif</imageURL>
+  </items>
+  <items>
+    <id>186</id>
+    <itemKey>zigscapybara</itemKey>
+    <name>Zig&#x27;s Capybara</name>
+    <type>Collectable</type>
+    <value>1000000</value>
+    <flags>
+      <CONSUMABLE>false</CONSUMABLE>
+      <PURCHASEABLE>false</PURCHASEABLE>
+      <REUSABLE>false</REUSABLE>
+      <TRADEABLE>true</TRADEABLE>
+    </flags>
+    <rarity>Rare</rarity>
+    <description>Top 10 best dressed capybaras</description>
+    <longDescription/>
+    <imageURL>https://cdn.discordapp.com/emojis/999477885331046441.png</imageURL>
+  </items>
+</root>

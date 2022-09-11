@@ -1,0 +1,2965 @@
+items:
+  - id: 126
+    itemKey: aplus
+    name: A plus
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      An A+ you can sell for some profit, woo for cheating! Found from the
+      teacher job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/991732639348293663.gif
+  - id: 86
+    itemKey: adventureticket
+    name: Adventure Ticket
+    type: Tool
+    value: 200000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A ticket to start an adventure!
+    longDescription: >-
+      This can be found in limited stock in the shop, from voting or being a
+      patron! These are used to start an adventure in the adventure command.
+    imageURL: https://cdn.discordapp.com/emojis/934112100970807336.png
+  - id: 177
+    itemKey: adventurevoucher
+    name: Adventure Voucher
+    type: Collectable
+    value: 200000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Exchange this with the bot to get a certain lootbox themed after an
+      adventure!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1007023088493400084.png
+  - id: 46
+    itemKey: aetheryxflower
+    name: Aetheryx' Flower
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: A no longer vibrant red flower, a wisp of its former self.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/936688654531825764.png
+  - id: 173
+    itemKey: aipheysgemstone
+    name: Aiphey's Gemstone
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: An amazing gemstone
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/960656161479209040.png
+  - id: 152
+    itemKey: alcohol
+    name: Alcohol
+    type: Power-up
+    value: 20000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Down some alcohol and maybe you'll get lucky! Maybe.
+    longDescription: >-
+      Drink a bottle of alcohol, and have the potential to gain a slight luck
+      boost that will grant you better luck in stealing from others. However,
+      you become more susceptible to being stolen from!
+    imageURL: https://cdn.discordapp.com/emojis/984501149501653082.png
+  - id: 187
+    itemKey: alexasmegaphone
+    name: Alexa's Megaphone
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: The voice of the people
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1000515380286083104.png
+  - id: 85
+    itemKey: aliensample
+    name: Alien Sample
+    type: Collectable
+    value: 500000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A collectible sample of alien tissue
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/933475704434196540.gif
+  - id: 172
+    itemKey: amathinesbutterfly
+    name: Amathine's Butterfly
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A beautiful butterfly
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/968274752135368704.gif
+  - id: 132
+    itemKey: ammo
+    name: Ammo
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      While this item is active (1 hour), you will always find an animal while
+      hunting. Found from the professional hunter job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/976514724336402462.png
+  - id: 11
+    itemKey: ant
+    name: Ant
+    type: Sellable
+    value: 1000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This ant is not alive; I think someone shot it? Who shoots an ant wtf.
+    longDescription: >-
+      This ant is not alive; I think someone shot it? Who shoots an ant wtf.
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/864220608865763378.png
+  - id: 109
+    itemKey: antirobpack
+    name: Anti-Rob Pack
+    type: Pack
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A pack containing basic items to avoid getting robbed.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/873172443462791200.png
+  - id: 169
+    itemKey: apple
+    name: Apple
+    type: Power-up
+    value: 8500
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: An apple a day keeps the what away? Avoid item loss on death!
+    longDescription: >-
+      Eating this once a day makes it so you do not lose any inventory or active
+      items if you die. The lifesaver takes priority over this effect. (Lasts 24
+      hours)
+    imageURL: https://cdn.discordapp.com/emojis/887000049266069575.png
+  - id: 31
+    itemKey: armpithair
+    name: Armpit Hair
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: It tastes funny!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/926267869258457139.png
+  - id: 142
+    itemKey: baby
+    name: Baby
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      We do NOT sell babies guys. We simply collect them. IN THE GAME, THIS IS A
+      JOKE WTF. Found from the babysitter job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/937502609550503936.png
+  - id: 42
+    itemKey: badoszcard
+    name: Badosz's Card
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: A real king in the sleeve.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/869294028385038354.gif
+  - id: 135
+    itemKey: banhammer
+    name: Ban Hammer
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A hammer dropped by a mod after banning someone. Found from the discord
+      mod job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/979435284603215932.png
+  - id: 59
+    itemKey: banknote
+    name: Bank Note
+    type: Power-up
+    value: 350000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Use this to expand your bank space!
+    longDescription: >-
+      You can either use this note to expand your bank space by a large amount
+      or sell it for some coins. Your choice, really. Expanded bank space does
+      not reset on prestige (regular bank space earned via running commands
+      does)
+    imageURL: https://cdn.discordapp.com/emojis/830509316888985621.png
+  - id: 185
+    itemKey: sludgesbarrel
+    name: Barrel of Sludge
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Toxic and stinky
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/998740316565807124.gif
+  - id: 130
+    itemKey: beaker
+    name: Beaker of sus fluid
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Dear god do NOT drink this. Found from the scientist job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/980475704414187590.png
+  - id: 7
+    itemKey: bean
+    name: Bean
+    type: Sellable
+    value: 2000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: It's just a bean. A simple B E A N.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/905951197821800500.png
+  - id: 49
+    itemKey: beanmp3
+    name: Bean Mp3 Player
+    type: Collectable
+    value: 50000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: >-
+      The long-lost voice of a bean. This item can only be used once before it
+      explodes from too much B E A N.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/922652278308093952.png
+  - id: 73
+    itemKey: berriesandcream
+    name: Berries and Cream
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: I'm a little lad who loves...
+    longDescription: >-
+      A limited time item from a random event, use this item to send it to
+      someone who loves berries and cream!
+    imageURL: https://cdn.discordapp.com/emojis/890365752534761472.png
+  - id: 128
+    itemKey: binary
+    name: Binary
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A rogue piece of binary code spit out of a computer. Found from the
+      developer job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/910648334212026498.gif
+  - id: 84
+    itemKey: blackhole
+    name: Black Hole
+    type: Collectable
+    value: 500000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: This item eats some gained items.
+    longDescription: >-
+      This item is a shady little lottery. When you have one in your inventory,
+      you have a random chance to have a gained item (from commands ran, not
+      from your inv) sucked into the black hole and put into an item lottery.
+      This also enters you to win said item lottery and get a share of ALL the
+      items entered.
+    imageURL: https://cdn.discordapp.com/emojis/932395505382744106.png
+  - id: 80
+    itemKey: blob
+    name: Blob
+    type: Collectable
+    value: 50000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: true
+      TRADEABLE: true
+    rarity: Legendary
+    description: >-
+      This is just a shell of its former self, earned for doing basically
+      absolutely nothing during the blob event.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/933188762782011454.gif
+  - id: 61
+    itemKey: blueplasticbits
+    name: Blue Plastic Bits
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A common blue crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398146249207808.png
+  - id: 52
+    itemKey: bluesplane
+    name: Blue's Plane
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      This top-of-the-line aircraft carries only the most prestigious of
+      passengers.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/931691006754189342.gif
+  - id: 20
+    itemKey: boar
+    name: Boar
+    type: Sellable
+    value: 4000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This boar is not alive; I think someone shot it. Hakuna matata...
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/861584585656762398.png
+  - id: 55
+    itemKey: cutters
+    name: Bolt Cutters
+    type: Collectable
+    value: 100000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Godly
+    description: Originally for developers only, this item instantly breaks all padlocks.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/978074542683611136.png
+  - id: 140
+    itemKey: whiskey
+    name: Bottle of Whiskey
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A superior alcohol, gives you a better chance to steal from someone and
+      has no negative effects (lasts 15 hours). Found from the bartender job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/978747427983085700.png
+  - id: 181
+    itemKey: boxbox
+    name: Box Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      This box has a box in it, wtf is this russian doll nonsense (can be any
+      box other than a patreon box or bundle box)
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1004915442818756778.gif
+  - id: 148
+    itemKey: sand
+    name: Box of Sand
+    type: Tool
+    value: 5000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      Chuck some sand in someone's face to prevent them from robbing you
+      briefly.
+    longDescription: >-
+      Throw a box of sand in someone's eyes to prevent them from robbing anyone
+      for 30 minutes.
+    imageURL: https://cdn.discordapp.com/emojis/830509316901175366.png
+  - id: 40
+    itemKey: boxedchocolates
+    name: Boxed Chocolates
+    type: Consumable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A boxy box of boxed chocolates to give to your partner to prove your love!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/936271905357459508.png
+  - id: 106
+    itemKey: bundlebox
+    name: Bundle Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      This has a 50% chance for 1 bread and a 50% chance for an empowered fart
+      bottle. If you get bread and are unhappy with this outcome, please email
+      badosz@dankmemer.gg for a personal apology as this was his idea.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/977726388150894653.gif
+  - id: 51
+    itemKey: bunnysapron
+    name: Bunny's Apron
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A handmade pink apron with bunny ears stitched to the pocket, finely
+      crafted for Michelin Star chefs, is mainly found in the kitchen.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/928417989357891675.png
+  - id: 90
+    itemKey: cactus
+    name: Cactus
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Rumor has it if you lick it, it will bring you good luck... or not, don't
+      believe everything you read.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/944679123962454046.png
+  - id: 114
+    itemKey: camera
+    name: Camera
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A streamer item that helps you with amount of viewers.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/903730591294439496.png
+  - id: 79
+    itemKey: candy
+    name: Candy
+    type: Power-up
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Yum, candy!
+    longDescription: Consuming this candy will give you a random amount of coins. Yum!
+    imageURL: https://cdn.discordapp.com/emojis/943637574906417214.png
+  - id: 70
+    itemKey: candycane
+    name: Candy Cane
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A tasty treat that looks pretty neat.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/920796779405000714.png
+  - id: 146
+    itemKey: phone
+    name: Cell Phone
+    type: Tool
+    value: 2000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: true
+      TRADEABLE: true
+    rarity: Common
+    description: A multi-purpose tool you cannot live without.
+    longDescription: >-
+      Use your cell phone to text your friends via the notifications system, or
+      ring the police in the case of an emergency or robbery. Your phone won't
+      be removed when used; however, misusing it (such as dialing police when
+      there's no trouble) may cost you money.
+    imageURL: https://cdn.discordapp.com/emojis/830509316632346625.png
+  - id: 58
+    itemKey: chillpill
+    name: Chill Pill
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Just take a chill pill and relax, sheesh.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/943292242523725855.png
+  - id: 176
+    itemKey: chocolatecake
+    name: Chocolate Cake
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: >-
+      This fresh and delicious slice of cake was recently baked at a pepe themed
+      bakery.
+    longDescription: >-
+      You can use this item to obtain a pepe skin over with our friends at
+      bake.gg!
+    imageURL: https://cdn.discordapp.com/emojis/998339184139968552.png
+  - id: 72
+    itemKey: christmastree
+    name: Christmas Tree
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: A beautiful Christmas tree, purely for collecting.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/923011690126254170.png
+  - id: 156
+    itemKey: coinbomb
+    name: Coin Bomb
+    type: Tool
+    value: 30000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A bomb that explodes coins for other people to pick up.
+    longDescription: "A bomb that explodes coins for other people to pick up. Dispenses anywhere from â\x8F£ 2,000 - â\x8F£ 15,000 for other people on the server to pick up in chat. Basically used to get people active and share some coins!"
+    imageURL: https://cdn.discordapp.com/emojis/942168959346704435.gif
+  - id: 23
+    itemKey: fish
+    name: Common Fish
+    type: Sellable
+    value: 750
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This is a pretty common fish. You can sell it to gain a few coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/957698195000025158.png
+  - id: 4
+    itemKey: cookie
+    name: Cookie
+    type: Sellable
+    value: 500
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A melt in your mouth yummy dummy cookie.
+    longDescription: This doesn't have any unique functionality; it is just a cookie.
+    imageURL: https://cdn.discordapp.com/emojis/981318260463136778.png
+  - id: 8
+    itemKey: corncob
+    name: Corncob
+    type: Sellable
+    value: 1000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A cob of corn, you should post it on Cornhub!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/972246926303051776.png
+  - id: 9
+    itemKey: corndog
+    name: Corndog
+    type: Sellable
+    value: 1000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A dog of corn, yum! Wait, that can't be right.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/973632646703894588.png
+  - id: 94
+    itemKey: cowboyboots
+    name: Cowboy Boots
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Found on a skeleton, it's believed these were owned by John Wayne
+      himself! 
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/950859370474922094.png
+  - id: 91
+    itemKey: cowboyhat
+    name: Cowboy Hat
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A 10 gallon hat that kinda smells funny.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/944662489784782859.png
+  - id: 41
+    itemKey: creditcard
+    name: Credit Card
+    type: Power-up
+    value: 2000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: Use this credit card to "buy" a friend some premium perks!
+    longDescription: >-
+      You can use this card to "buy" someone 5 days of premium perks for Dank
+      Memer. (The $2 perk value)
+    imageURL: https://cdn.discordapp.com/emojis/892546328406663168.png
+  - id: 124
+    itemKey: taco
+    name: Crunchy Taco
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Eating this delicious taco will double your level up rewards for 24 hours.
+      Found from the fast food cook job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/976607098588790804.png
+  - id: 81
+    itemKey: cupidsbigtoe
+    name: Cupid's Big Toe
+    type: Power-up
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Enhance your multiplier with Cupid's presence!
+    longDescription: >-
+      Applies a multiplier of **69%** for **69 seconds**. Limited time item for
+      Valentines Day!
+    imageURL: https://cdn.discordapp.com/emojis/976612203211931678.png
+  - id: 39
+    itemKey: cursedpepe
+    name: Cursed Pepe
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A pepe that NOT EVEN a mother could love.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/933194488241864704.png
+  - id: 99
+    itemKey: daily
+    name: Daily Box
+    type: Loot Box
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      A reward for voting for Dank Memer! Using this box also gives you a
+      10-minute double xp boost.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/861390900219478037.gif
+  - id: 103
+    itemKey: dank
+    name: Dank Box
+    type: Loot Box
+    value: 600000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Dank rewards for a dank user.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/861390901049425950.gif
+  - id: 19
+    itemKey: deer
+    name: Deer
+    type: Sellable
+    value: 2000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This deer is not alive; I think someone shot it. WHO COULD HAVE DONE SUCH
+      A THING TO BAMBI.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/981686994524569710.png
+  - id: 171
+    itemKey: developerbox
+    name: Developer Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A box containing the personal items of the Dank Memer staff team
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975470580381921310.gif
+  - id: 21
+    itemKey: dragon
+    name: Dragon
+    type: Sellable
+    value: 30000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      I hope this dragon isn't alive. I think someone shot it? This is probably
+      worth a pretty penny!
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less. Unless...
+    imageURL: https://cdn.discordapp.com/emojis/861390869696741396.png
+  - id: 18
+    itemKey: duck
+    name: Duck
+    type: Sellable
+    value: 1750
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This duck is not alive; I think someone shot it. WE'RE EATING GOOD TONIGHT
+      BOYS!
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/920400262911373383.png
+  - id: 43
+    itemKey: ducttape
+    name: Duct Tape
+    type: Tool
+    value: 900000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Use this tape to craft certain items with the craft command!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/903663686017749013.png
+  - id: 121
+    itemKey: ectoplasm
+    name: Ectoplasm
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Some gross ghost left their gunk everywhere. Sell it! Found from the ghost
+      job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975768694435233842.gif
+  - id: 87
+    itemKey: empoweredfartbottle
+    name: Empowered Fart Bottle
+    type: Tool
+    value: 500000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A really POWERFULLY stinky bottle. You should NOT sniff it! (The same as a
+      fart bottle, but you cannot fail)
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/924808588420059207.gif
+  - id: 69
+    itemKey: enchantedbad
+    name: Enchanted Badosz's Card
+    type: Collectable
+    value: 100000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Godly
+    description: Perfectly balanced, as all things should be.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/931295850292989973.gif
+  - id: 139
+    itemKey: energydrink
+    name: Energy Drink
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A delicious energy drink. Found from the pro gamer job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/989307051945648178.png
+  - id: 163
+    itemKey: ring
+    name: Engagement Ring
+    type: Collectable
+    value: 500000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: false
+    rarity: Rare
+    description: Propose to someone!
+    longDescription: >-
+      Propose to someone! Marriage has a lot of benefits and downsides, be
+      careful!
+    imageURL: https://cdn.discordapp.com/emojis/862369027984064552.png
+  - id: 25
+    itemKey: exoticfish
+    name: Exotic Fish
+    type: Sellable
+    value: 5000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This is a really rare fish. You can sell it to gain a large sum of coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/970794371869995058.png
+  - id: 151
+    itemKey: fakeid
+    name: Fake ID
+    type: Tool
+    value: 20000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Disguise your identity on the `/top` command
+    longDescription: >-
+      Disguise your identity on the leaderboard with a random fake name! Lasts
+      for 1 week. Also, it will hide you from robbers' wishlists.
+    imageURL: https://cdn.discordapp.com/emojis/966338245443080213.png
+  - id: 32
+    itemKey: fartinabottle
+    name: Fart In A Bottle
+    type: Consumable
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      A really stinky bottle. Should you sniff it? "You're either a smart fella
+      or a fart smella." -TheLazyTownie
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/860285654009511936.png
+  - id: 149
+    itemKey: spinner
+    name: Fidget Spinner
+    type: Collectable
+    value: 50000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      Thank god, spinning these moved back to a stimming tool and away from a
+      trendy meme.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/873970101479686194.gif
+  - id: 133
+    itemKey: bait
+    name: Fishing Bait
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      While this item is active (1 hour), you will always find something while
+      fishing. Found from the professional fisherman job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/992184511674728501.png
+  - id: 154
+    itemKey: fishingpole
+    name: Fishing Pole
+    type: Tool
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Use this to access `/fish`.
+    longDescription: >-
+      This fishing pole allows you to use the fish command, giving you
+      potentially lots of different types of items!
+    imageURL: https://cdn.discordapp.com/emojis/868519722759630858.png
+  - id: 74
+    itemKey: fool
+    name: Fool's Notif
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: In a simpler time, this was an effective tool to "prank" your friends
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/960588198331957278.gif
+  - id: 15
+    itemKey: fossil
+    name: Fossil
+    type: Sellable
+    value: 7500
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: The fossil of a beast from eons ago.
+    longDescription: >-
+      This fossil is obviously not alive. You should sell it and nothing else.
+      Right?
+    imageURL: https://cdn.discordapp.com/emojis/921790077393338378.png
+  - id: 5
+    itemKey: bread
+    name: Fresh Bread
+    type: Sellable
+    value: 500
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: The best fresh bread from our meme bakery made daily!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/980955203018821632.png
+  - id: 77
+    itemKey: gift
+    name: Friend's Gift
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Buy this to send to a friend to open.
+    longDescription: >-
+      Once upon a time this collectible item was able to be turned into a
+      lootbox for a friend
+    imageURL: https://cdn.discordapp.com/emojis/987156741110255716.png
+  - id: 2
+    itemKey: garbage
+    name: Garbage
+    type: Sellable
+    value: 200
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A garbage thing, not worth much.
+    longDescription: This is an absolute garbage item.
+    imageURL: https://cdn.discordapp.com/emojis/935631382590394398.png
+  - id: 98
+    itemKey: giftbox
+    name: Gift Box
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Once upon a time, this was a lootbox. Now it's a relic meant to be
+      collected.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/987157087693975612.png
+  - id: 104
+    itemKey: god
+    name: God Box
+    type: Loot Box
+    value: 1500000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: What the hell this is op god tier box.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/861390900688977950.gif
+  - id: 44
+    itemKey: goldencorndog
+    name: Golden Corndog
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A corndog... BUT IT'S GOLDEN!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/987046202212237392.png
+  - id: 97
+    itemKey: goldennugget
+    name: Golden Nugget
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A nugget of pure gold, or is it fools gold? Who cares, it's shiny!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/945419831535083570.png
+  - id: 64
+    itemKey: goldenplasticbits
+    name: Golden Plastic Bits
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A rare golden crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398146416971907.png
+  - id: 118
+    itemKey: greenscreen
+    name: Green Screen
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A streamer item that increases your revenue.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/904821937807716352.png
+  - id: 110
+    itemKey: grindpack
+    name: Grind Pack
+    type: Pack
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A pack containing items to start your love-hate relationship with
+      grinding.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/873172443685064744.png
+  - id: 119
+    itemKey: headphones
+    name: Headphones
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A streamer item that increases your max idle time.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/904886213087989761.png
+  - id: 37
+    itemKey: stocking
+    name: Holiday Stocking
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A fancy sock holding fun treats and trinkets for the holidays.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/920812196567597067.png
+  - id: 191
+    itemKey: holybadoszbread
+    name: Holy Badosz's Bread
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: >-
+      This bread might be holy, but it smells TERRIBLE and probably should not
+      be touched with a ten foot pole. This must be 10,000 years old.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1010341373154689164.gif
+  - id: 192
+    itemKey: holywater
+    name: Holy Water
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: >-
+      This water is (metaphorically) used to cleanse the eyes of anyone who
+      looked at Badosz
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1010314176511627344.png
+  - id: 166
+    itemKey: huntingrifle
+    name: Hunting Rifle
+    type: Tool
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Use this to access `/hunt`.
+    longDescription: >-
+      This hunting rifle allows you to use the hunt command, giving you
+      potentially lots of different types of items!
+    imageURL: https://cdn.discordapp.com/emojis/868286178070261760.png
+  - id: 78
+    itemKey: jacky
+    name: Jacky o' Lanty
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: Put on a Jacky and join in on the spooky season!
+    longDescription: >-
+      Equip this and turn all embed colors (the color on the side of embeds)
+      into spooky season colors.
+    imageURL: https://cdn.discordapp.com/emojis/968850393431961630.gif
+  - id: 83
+    itemKey: jarofsingularity
+    name: Jar Of Singularity
+    type: Collectable
+    value: 500000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: This could be important in the future...
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/932759942081941515.png
+  - id: 26
+    itemKey: jellyfish
+    name: Jelly Fish
+    type: Sellable
+    value: 8000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This is a really neat jellyfish. You can sell it to gain a large sum of
+      coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/971160094349869126.png
+  - id: 3
+    itemKey: junk
+    name: Junk
+    type: Sellable
+    value: 200
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A junky thing, not worth much.
+    longDescription: >-
+      This is an absolute junk item. This item additionally no longer drops from
+      any sources.
+    imageURL: https://cdn.discordapp.com/emojis/981272956351156234.png
+  - id: 174
+    itemKey: kablessunglasses
+    name: Kable's Sunglasses
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: chad item for virgin developer
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/969374516205719592.gif
+  - id: 113
+    itemKey: keyboard
+    name: Keyboard
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A basic streaming item for the `/stream` command!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/904821868312268850.png
+  - id: 28
+    itemKey: kraken
+    name: Kraken
+    type: Sellable
+    value: 75000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: The king of the sea can be sold to fill your pockets.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less..?
+    imageURL: https://cdn.discordapp.com/emojis/860228238956429313.png
+  - id: 13
+    itemKey: ladybug
+    name: Ladybug
+    type: Sellable
+    value: 3000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This ladybug is not alive; I think someone shot it? This smells stale as
+      crap.
+    longDescription: >-
+      This ladybug is not alive; I think someone shot it? This smells stale as
+      crap. This item's purpose is to be collected or sold. Nothing more,
+      nothing less.
+    imageURL: https://cdn.discordapp.com/emojis/863198415822389268.png
+  - id: 150
+    itemKey: landmine
+    name: Landmine
+    type: Tool
+    value: 20000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      Blows up when someone steps on it when trying to steal from you,
+      potentially killing them.
+    longDescription: >-
+      If someone tries to steal from you, there's a 50% chance they will die
+      from blowing up. Lasts 24 hours.
+    imageURL: https://cdn.discordapp.com/emojis/887000049354145792.png
+  - id: 168
+    itemKey: laptop
+    name: Laptop
+    type: Collectable
+    value: 5000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Who needs a laptop when you have a vr set on your face for everything
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/830509316674813974.png
+  - id: 92
+    itemKey: lasso
+    name: Lasso
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      I bet you can't do any of those cool lasso tricks that real cowboys can
+      do.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/950807315915870279.png
+  - id: 143
+    itemKey: lawdegree
+    name: Law Degree
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Anyone can be a lawyer these days, just sell them this! Found from the
+      lawyer job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/976890603772186624.png
+  - id: 27
+    itemKey: legendaryfish
+    name: Legendary Fish
+    type: Sellable
+    value: 20000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      This is a really, REALLY rare fish. You can sell it to gain a massive sum
+      of coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/971430841211322408.gif
+  - id: 158
+    itemKey: lifesaver
+    name: Life Saver
+    type: Power-up
+    value: 85000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Quite literally saves your life and keeps you from dying!
+    longDescription: >-
+      Having one in your inventory prevents death and uses one when you almost
+      die. This is used BEFORE the apple's effects.
+    imageURL: https://cdn.discordapp.com/emojis/935147848977219635.gif
+  - id: 123
+    itemKey: likebutton
+    name: Like Button
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Like any other YouTuber, you should beg and collect these likes as much as
+      possible. They are IMPORTANT TO BEING A GREAT YOUTUBER! Found from the
+      youtuber job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/991768633611141200.png
+  - id: 47
+    itemKey: karen
+    name: Literally Karen
+    type: Collectable
+    value: 100000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Godly
+    description: The Karens on this bot are really annoying. You know who they are.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/860196324762452028.png
+  - id: 71
+    itemKey: tree
+    name: Literally a Tree
+    type: Sellable
+    value: 1000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: This is just a plain tree.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/923005301421113344.png
+  - id: 157
+    itemKey: horseshoe
+    name: Lucky Horseshoe
+    type: Power-up
+    value: 75000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Using this increases your luck in some grind commands for a few minutes!
+    longDescription: >-
+      No one is sure exactly how much this increased your luck, but it's
+      different for each command! This affects hunt, fish, beg, search, crime,
+      postmemes, steal, dig, and gamble!
+    imageURL: https://cdn.discordapp.com/emojis/986396363707281468.png
+  - id: 48
+    itemKey: melmsiebeard
+    name: Melmsie's Beard
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: Who shaved this off their face? That seems gross.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/934601991097819216.png
+  - id: 102
+    itemKey: meme
+    name: Meme Box
+    type: Loot Box
+    value: 300000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Something actually worth opening.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/861390901300953118.gif
+  - id: 138
+    itemKey: memepills
+    name: Meme pills
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Pills that have literally no function besides selling. Found from the
+      pharmacist job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/834080273804689409.png
+  - id: 82
+    itemKey: meteorite
+    name: Meteorite
+    type: Sellable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A chunk of space rock with some interesting signs of life on it.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/932047375579643944.gif
+  - id: 115
+    itemKey: microphone
+    name: Microphone
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A streamer item that helps you with stability of your stream.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/903784794398294036.png
+  - id: 120
+    itemKey: poster
+    name: Motivational Poster
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Provides a 5% work payout bonus, stacking up to 50%. Found from the
+      manager job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/980515661619003482.png
+  - id: 112
+    itemKey: mouse
+    name: Mouse
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A basic streaming item for the `/stream` command!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/904821818425241600.png
+  - id: 65
+    itemKey: multiplasticbits
+    name: Multi Colored Plastic Bits
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A rare multi-colored crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398148660928602.gif
+  - id: 145
+    itemKey: note
+    name: Musical Note
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      The record label did not want your music, so sell it to Dank Memer. Found
+      from the musician job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/910673407761317928.gif
+  - id: 107
+    itemKey: newplayerpack
+    name: New Player Pack
+    type: Pack
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A pack to get you started within Dank Memer's economy.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/873172443529891871.png
+  - id: 101
+    itemKey: normie
+    name: Normie Box
+    type: Loot Box
+    value: 35000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Can't get more basic than this.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/861390901405679626.gif
+  - id: 57
+    itemKey: eye
+    name: Odd Eye
+    type: Collectable
+    value: 100000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Godly
+    description: >-
+      This eye is odd and reasonably creepy. It has probably close to 20k veins,
+      ew.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/993233845174415380.gif
+  - id: 178
+    itemKey: oldbox
+    name: Old Box
+    type: Loot Box
+    value: 2000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: >-
+      This box contains items that are old and no longer trendy or easy to
+      acquire
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/895447304805429278.gif
+  - id: 93
+    itemKey: revolver
+    name: Old Cowboy Revolver
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Legend says this once belonged to a famous gunslinger before they sold it
+      for a bottle of farts...
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/946724166223138856.gif
+  - id: 63
+    itemKey: orangeplasticbits
+    name: Orange Plastic Bits
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: An uncommon orange crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398146333081690.png
+  - id: 38
+    itemKey: ornament
+    name: Ornament
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A cute little ornament for Christmas.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/921193342501539891.png
+  - id: 182
+    itemKey: outwestbox
+    name: Out West Adventure Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: This box contains items from the "Pepe goes out west" adventure!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1006333035970576394.gif
+  - id: 167
+    itemKey: padlock
+    name: Padlock
+    type: Tool
+    value: 5000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Lock a padlock on your wallet to prevent people from robbing you.
+    longDescription: >-
+      Lock a padlock on your wallet to prevent people from robbing you. This is
+      a one-time use item; once the lock is broken or removed, it won't come
+      back or do anything unless you buy another one. It will not ALWAYS break,
+      but it has a chance to break when someone tries to steal from you.
+    imageURL: https://cdn.discordapp.com/emojis/830509316900651059.png
+  - id: 105
+    itemKey: patreon
+    name: Patreon Box
+    type: Loot Box
+    value: 2000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: >-
+      This box is only for our loyal patrons! (Unless of course they choose to
+      trade it)
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/892171107845677066.gif
+  - id: 111
+    itemKey: patreonpack
+    name: Patreon Pack
+    type: Pack
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A pack you get once per week for being a patron!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/921546973218218064.png
+  - id: 180
+    itemKey: pepebox
+    name: Pepe Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      This box contains every pepe themed item in the game that is not a limited
+      time drop
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1001266209628631071.gif
+  - id: 164
+    itemKey: pepecoin
+    name: Pepe Coin
+    type: Collectable
+    value: 500000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A pretty rare coin, a relic to show wealth in simpler times!
+    longDescription: >-
+      This coin is primarily for flexing on normies who cannot afford one. Once
+      upon a time, it was the most expensive item on the bot!
+    imageURL: https://cdn.discordapp.com/emojis/942212715454271518.gif
+  - id: 147
+    itemKey: pepecrown
+    name: Pepe Crown
+    type: Collectable
+    value: 250000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: true
+      TRADEABLE: true
+    rarity: Godly
+    description: >-
+      Literally, only the richest of the richest of the richest of the richest
+      of the richest of the rich will hold these beloved crowns. At least until
+      another expensive item comes along, LOL.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/834862725120917544.png
+  - id: 165
+    itemKey: pepemedal
+    name: Pepe Medal
+    type: Collectable
+    value: 12000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: A medal only the top 5% of players have!
+    longDescription: >-
+      Owning this medal gives you an extra 5% steal shields (does not stack).
+      Otherwise, it is used to flex on normies who cannot afford one!
+    imageURL: https://cdn.discordapp.com/emojis/948673104870252564.gif
+  - id: 33
+    itemKey: peperibbon
+    name: Pepe Ribbon
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: It is a proper flex to carry this esteemed ribbon.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/890646381482614824.png
+  - id: 190
+    itemKey: pepering
+    name: Pepe Ring
+    type: Collectable
+    value: 100000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: A ring to flex on people with bare fingers
+    longDescription: >-
+      This ring is an item esteemed by all except those sporting crowns. You
+      cannot use it, it's a ring not a go go gadget.
+    imageURL: https://cdn.discordapp.com/emojis/1006984234763825263.png
+  - id: 66
+    itemKey: pepestatue
+    name: Pepe Statue
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: It is a neat collectible statue similar to a coin you can buy.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/993285762697146449.png
+  - id: 35
+    itemKey: pepesus
+    name: Pepe Sus
+    type: Collectable
+    value: 50000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: Pepe is looking a little SUS today.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/890646381189009438.png
+  - id: 155
+    itemKey: pepetrophy
+    name: Pepe Trophy
+    type: Collectable
+    value: 45000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: >-
+      A trophy to flex how rich you are! You are rich enough to afford this...
+      right?
+    longDescription: >-
+      Having this trophy gives you a 5% multiplier, an extra 10% steal shields,
+      and an extra 5% chance at random events spawning (does not stack).
+      Otherwise, it is used to flex on normies who cannot afford one!
+    imageURL: https://cdn.discordapp.com/emojis/940712966213496842.gif
+  - id: 134
+    itemKey: collar
+    name: Pet Collar
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Owning this item gives you a higher chance to find pets that ran away
+      Found from the veterinarian job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/936381028396847195.png
+  - id: 184
+    itemKey: saddle
+    name: Pet Saddle
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Ride your pet into the sunset
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/946176458865405982.png
+  - id: 60
+    itemKey: pinkplasticbits
+    name: Pink Plastic Bits
+    type: Collectable
+    value: 12
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A common pink crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398146152738906.png
+  - id: 162
+    itemKey: pizza
+    name: Pizza Slice
+    type: Power-up
+    value: 300000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Eat this for a chunky xp multiplier!
+    longDescription: Eating this perfect pizza slice will give you +250% xp gains for an hour.
+    imageURL: https://cdn.discordapp.com/emojis/940735144849985596.gif
+  - id: 189
+    itemKey: plasticbox
+    name: Plastic Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: This box contains every plastic bit
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1003453280438988900.gif
+  - id: 127
+    itemKey: policebadge
+    name: Police Badge
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A shiny police badge, found in the police station on the ground. Found
+      from the police officer job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/979517884101459999.png
+  - id: 6
+    itemKey: potato
+    name: Potato â˜­
+    type: Sellable
+    value: 2000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A good communist potato, very tasty and reminds you of your motherland.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/992123899498221698.png
+  - id: 45
+    itemKey: prestigecoin
+    name: Prestige Coin
+    type: Power-up
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Earned from prestiging, use this coin to activate your post-prestige bonus
+      multi. It gives you 6 hours of 350% multiplier.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/899772669262700615.png
+  - id: 108
+    itemKey: prestigepack
+    name: Prestige Pack
+    type: Pack
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: A pack to get you back on your feet after prestiging.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/898709240837976064.png
+  - id: 62
+    itemKey: purpleplasticbits
+    name: Purple Plastic Bits
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: An uncommon purple crafting material
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/975398146618306630.png
+  - id: 17
+    itemKey: rabbit
+    name: Rabbit
+    type: Sellable
+    value: 1500
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This rabbit is not alive; I think someone shot it. Rabbit fur is pretty
+      soft...
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/860665246875254784.png
+  - id: 24
+    itemKey: rarefish
+    name: Rare Fish
+    type: Sellable
+    value: 2500
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This is a fairly rare fish. You can sell it to gain a fair amount of
+      coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/971151079096061962.png
+  - id: 160
+    itemKey: pepe
+    name: Rare Pepe
+    type: Collectable
+    value: 50000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A lone rare pepe made to collect and flex how many you can get compared to
+      your friends.
+    longDescription: >-
+      The rare pepe is only used for collecting or flexing on normies who cannot
+      afford one. Although basically anyone can afford one these days...
+    imageURL: https://cdn.discordapp.com/emojis/936007340736536626.png
+  - id: 56
+    itemKey: reversal
+    name: Reversal Card
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A legacy item from a simpler time in Dank Memer. This item is now just a
+      collectible for those who already had them in the past.
+    longDescription: >-
+      Reversal cards were previously used to reverse a steal someone performed
+      on you. Due to being SUPER buggy and causing multiple exploits, they were
+      removed. They are now back for those who already had them in their
+      inventories, but not functional and just for collecting.
+    imageURL: https://cdn.discordapp.com/emojis/573150370579087360.png
+  - id: 117
+    itemKey: ringlight
+    name: Ring Light
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A streamer item that lowers your min time between stream interactions.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/905501619523829780.png
+  - id: 141
+    itemKey: robbersmask
+    name: Robbers Mask
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Your name will not show up on steal or bankrob notifs sent to the victim
+      for 12 hours after using. Found from the robber job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/991364525783785512.png
+  - id: 159
+    itemKey: wishlist
+    name: Robbers Wishlist
+    type: Tool
+    value: 50000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A robber's best friend! List all users able to be robbed within a server!
+    longDescription: >-
+      This item when used gives a list of users that aren't passive and do not
+      have a fake ID on. Basically, anyone who is able to be robbed!
+    imageURL: https://cdn.discordapp.com/emojis/966630329756565594.png
+  - id: 29
+    itemKey: scepter
+    name: Royal Scepter
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A royal scepter fit for only the most luxurious kings.
+    longDescription: >-
+      A royal scepter such as this is worth close to 50k gold carats, dang! You
+      can either use this item to obtain royalty-embedded colors or keep it in
+      your collection.
+    imageURL: https://cdn.discordapp.com/emojis/926573136558850139.gif
+  - id: 188
+    itemKey: hotdog
+    name: Sanic Hot Dog
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      It is an off brand hotdog trying to be as cool as that similar drive in
+      place's hot dogs
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/959925962412269630.png
+  - id: 131
+    itemKey: santasbag
+    name: Santa's Bag
+    type: Loot Box
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: Santa has a bag full of goodies. Some pretty rare goodies too.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/862415055622635560.png
+  - id: 76
+    itemKey: santashat
+    name: Santa's Hat
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Put on Santa's hat and join in on the holiday spirit!
+    longDescription: >-
+      Equip Santa's hat and turn all embed colors (the color on the side of
+      embeds) into Christmas-themed colors!
+    imageURL: https://cdn.discordapp.com/emojis/921546940032880660.png
+  - id: 67
+    itemKey: urinal
+    name: School Urinal
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: The most devious lick.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/889266191808471114.png
+  - id: 22
+    itemKey: seaweed
+    name: Seaweed
+    type: Sellable
+    value: 250
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Some slimy seaweed. You can sell it to gain a tiny portion of coins.
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/887000050201419787.gif
+  - id: 89
+    itemKey: shootingstar
+    name: Shooting Star
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Make a wish! Or don't, I can't force you.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/923291410130686022.png
+  - id: 144
+    itemKey: coupon
+    name: Shop Coupon
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      You will have the option to use this at a shop checkout. You can get 5%
+      off any purchase from the shop. Found from the dank memer shopkeeper job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/977969734307971132.png
+  - id: 153
+    itemKey: shovel
+    name: Shovel
+    type: Tool
+    value: 25000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: true
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Use this to access `/dig`.
+    longDescription: >-
+      This shovel allows you to use the dig command, giving you potentially lots
+      of different types of items!
+    imageURL: https://cdn.discordapp.com/emojis/868263822035669002.png
+  - id: 161
+    itemKey: cheese
+    name: Shredded Cheese
+    type: Power-up
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A mystic bag of light-golden shredded cheese. Earn an XP multiplier!
+    longDescription: >-
+      Dump an entire bag of shredded cheese into your face hole. For every bag
+      of shredded cheese consumed, you get a stacking EXP multiplier, capping at
+      **85%** (**30** bags of cheese consumed).
+    imageURL: https://cdn.discordapp.com/emojis/830509316933943307.png
+  - id: 16
+    itemKey: skunk
+    name: Skunk
+    type: Sellable
+    value: 1250
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This skunk is not alive; I think someone shot it. GOD, IT SMELLS WTF!
+    longDescription: >-
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/861390875992522792.png
+  - id: 75
+    itemKey: snowball
+    name: Snowball
+    type: Tool
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: Threaten someone with a snowball!
+    longDescription: >-
+      You will use this to prepare a snowball with a user's name on it. This
+      will prevent them from doing anything bad to you for a few minutes, like
+      robbing you or putting negative items on you!
+    imageURL: https://cdn.discordapp.com/emojis/992137642479190216.png
+  - id: 68
+    itemKey: snowflake
+    name: Snowflake
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Every snowflake is unique... but not in this bot.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/920796800774991932.png
+  - id: 116
+    itemKey: soundcard
+    name: Sound Card
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: A meta streamer item that helps you get other streamer items.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/905572838847684648.png
+  - id: 183
+    itemKey: inspacebox
+    name: Space Adventure Box
+    type: Loot Box
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: This box contains items from the "Pepe goes to space" adventure!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1006333035970576394.gif
+  - id: 14
+    itemKey: spider
+    name: Spider
+    type: Sellable
+    value: 5000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: >-
+      This spider is not alive; I think someone shot it? Yeah that checks out,
+      spiders suck.
+    longDescription: >-
+      This spider is not alive; I think someone shot it? Yeah that checks out,
+      spiders suck. This item's purpose is to be collected or sold. Nothing
+      more, nothing less.
+    imageURL: https://cdn.discordapp.com/emojis/864261394944884746.png
+  - id: 129
+    itemKey: cash
+    name: Stack of Cash
+    type: Collectable
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A tradeable item with the bot. Use it to trade for banknotes or pizzas.
+      Found from the politician job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/862774540895125584.png
+  - id: 88
+    itemKey: starfragment
+    name: Star Fragment
+    type: Sellable
+    value: 500000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A fragment of a shooting star. I wonder what this can be used for?
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/923291410323603457.png
+  - id: 12
+    itemKey: stickbug
+    name: Stickbug
+    type: Sellable
+    value: 2000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: >-
+      This stickbug is not alive; I think someone shot it? Is the meme really
+      that annoying?
+    longDescription: >-
+      This stickbug is not alive; I think someone shot it? Is the meme really
+      that annoying? This item's purpose is to be collected or sold. Nothing
+      more, nothing less.
+    imageURL: https://cdn.discordapp.com/emojis/864568819795755038.gif
+  - id: 137
+    itemKey: stonkmachine
+    name: Stonk Machine
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: true
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Use this machine to try and earn some coins from stonk investment.
+      Warning, there is a 10% chance to lose 10% of your wallet from a bad
+      investment! Found from the day trader job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/990673255457239070.gif
+  - id: 50
+    itemKey: streakfreeze
+    name: Streak Freeze
+    type: Power-up
+    value: 2000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: This item will prevent you from losing your daily streak ONE time.
+    longDescription: >-
+      Using this item will turn it into an active item that lasts 30 days. After
+      it's equipped, you will retain your streak if you run daily after missing
+      1+ days. This is automatically destroyed at that point or when it expires.
+    imageURL: https://cdn.discordapp.com/emojis/921501533273751682.png
+  - id: 34
+    itemKey: sugarskull
+    name: Sugar Skull
+    type: Consumable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A delicious treat to celebrate DÃ­a de los Muertos. Only dropped in 2021.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/894597638161326091.png
+  - id: 30
+    itemKey: letter
+    name: The Letter
+    type: Collectable
+    value: 25000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: What's in the letter? Open it up to find out!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/926522932560269413.gif
+  - id: 170
+    itemKey: tidepod
+    name: Tidepod
+    type: Collectable
+    value: 50000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Uncommon
+    description: Can you believe people thought it was a good idea to eat these?
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/887000049740030032.png
+  - id: 125
+    itemKey: tipjar
+    name: Tip Jar
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: true
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      You can check this tip jar once every hour! Sometimes you can find some
+      neat stuff... Found from the twitch streamer job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/976886606680178698.png
+  - id: 36
+    itemKey: toiletpaper
+    name: Toilet Paper
+    type: Collectable
+    value: 50000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: If we learned anything during the pandemic, it's that TP is VALUABLE.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/928399081112469544.png
+  - id: 175
+    itemKey: townieseyes
+    name: Townie's Eyes
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Townie sees all
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/959429404541468713.gif
+  - id: 1
+    itemKey: trash
+    name: Trash
+    type: Sellable
+    value: 200
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: A trashy thing, not worth much.
+    longDescription: >-
+      This is an absolute trash item. This item additionally no longer drops
+      from any sources.
+    imageURL: https://cdn.discordapp.com/emojis/986723862190383165.png
+  - id: 95
+    itemKey: treasuremap
+    name: Treasure Map
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      The text is written in a strange language, but you can just about make out
+      the location of the treasure - https://youtu.be/dQw4w9WgXcQ
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/945442853016973343.png
+  - id: 96
+    itemKey: tumbleweed
+    name: Tumbleweed
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      If you listen carefully, you can hear your hopes and dreams drift away
+      with it...
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/953310228600983612.gif
+  - id: 122
+    itemKey: diaper
+    name: Used Diaper
+    type: Tool
+    value: 100000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Throw this used diaper at someone to prevent them from joining or starting
+      a heist for 12 hours. Found from the house wife job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/976572178348793858.png
+  - id: 136
+    itemKey: vaccine
+    name: Vaccine
+    type: Sellable
+    value: 100000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      Are we sure this is a vaccine and not some other drug? Found from the
+      doctor job.
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/979145429138673744.png
+  - id: 100
+    itemKey: weddinggift
+    name: Wedding Gift
+    type: Loot Box
+    value: 60000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: A gift for marrying someone!
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/877566903516790855.png
+  - id: 54
+    itemKey: lotterywinner
+    name: Winning Lottery Ticket
+    type: Collectable
+    value: 5000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Epic
+    description: Proof that you won the lottery once upon a time.
+    longDescription: >-
+      This allows you to brag to your friends or enemies about winning the
+      lottery and gives you a 2% higher chance at random events.
+    imageURL: https://cdn.discordapp.com/emojis/828630267983298580.png
+  - id: 179
+    itemKey: workbox
+    name: Work Box
+    type: Loot Box
+    value: 2000000
+    flags:
+      CONSUMABLE: true
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Legendary
+    description: This box contains every work item in the game
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/1004537002869411970.gif
+  - id: 10
+    itemKey: worm
+    name: Worm
+    type: Sellable
+    value: 500
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Common
+    description: This worm is not alive; I think someone shot it? Who shoots a worm wtf.
+    longDescription: >-
+      This worm is not alive; I think someone shot it? Who shoots a worm wtf.
+      This item's purpose is to be collected or sold. Nothing more, nothing
+      less.
+    imageURL: https://cdn.discordapp.com/emojis/864261394920898600.png
+  - id: 53
+    itemKey: yengpaw
+    name: Yeng's Paw
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: >-
+      A squishy paw that can relieve stress and make you smile. SQUISH! SQUISH!
+      SQUISH! (Yeng Gang rise up)
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/927305405988753468.gif
+  - id: 186
+    itemKey: zigscapybara
+    name: Zig's Capybara
+    type: Collectable
+    value: 1000000
+    flags:
+      CONSUMABLE: false
+      PURCHASEABLE: false
+      REUSABLE: false
+      TRADEABLE: true
+    rarity: Rare
+    description: Top 10 best dressed capybaras
+    longDescription: null
+    imageURL: https://cdn.discordapp.com/emojis/999477885331046441.png
