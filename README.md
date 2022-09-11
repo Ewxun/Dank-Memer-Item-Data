@@ -6,7 +6,12 @@ You will find the following information about the items:
 - Item ID
 - Item Name
 - Item Key
+- Item Description
+- Item Type
+- Item Rarity
 - Item Price
 - Item Flags
   - Reusability
-  - Obtainablity
+  - Obtainabl-ity
+  - Tradability
+  - Purchasab-ility
