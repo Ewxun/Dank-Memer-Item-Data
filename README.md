@@ -23,7 +23,7 @@ The original data is saved using the JSON format. Other formats are converted wi
 - YAML
 - XML
 - CSV
-- SQL
+- SQL (No longer maintained, feel free to contribute)
   - SQLite
   - MySQL
   - PostgreSQL
