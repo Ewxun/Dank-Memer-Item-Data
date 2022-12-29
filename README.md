@@ -11,6 +11,7 @@ You will find the following information about the items:
 - Item Rarity
 - Item Price
 - Item Image/Emoji URL
+- Item Skins
 - Item Flags
   - Reusability
   - Obtainabl-ity
@@ -21,12 +22,6 @@ You will find the following information about the items:
 The original data is saved using the JSON format. Other formats are converted with 3rd-party tools/libraries.
 - JSON
 - YAML
-- XML
-- CSV
-- SQL (No longer maintained, feel free to contribute)
-  - SQLite
-  - MySQL
-  - PostgreSQL
 
 ## Contributing
 Feel free to contribute to this repository by updating data or adding in new formats.
